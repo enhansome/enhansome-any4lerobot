@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T21:42:37Z",
+            "last_commit": "2026-08-16T03:52:48Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26676
+            "stars": 26691
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-06-16T00:14:01Z",
             "owner": "Physical-Intelligence",
             "repo": "openpi",
-            "stars": 13313
+            "stars": 13328
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-10T17:26:32Z",
             "owner": "NVIDIA",
             "repo": "Isaac-GR00T",
-            "stars": 7835
+            "stars": 7838
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2025-05-30T06:00:03Z",
             "owner": "Fanqi-Lin",
             "repo": "OneTwoVLA",
-            "stars": 236
+            "stars": 237
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-05-25T07:52:05Z",
             "owner": "unitreerobotics",
             "repo": "unitree_lerobot",
-            "stars": 745
+            "stars": 746
           }
         },
         {
@@ -269,7 +269,7 @@
             "last_commit": "2026-07-22T20:26:45Z",
             "owner": "Vector-Wangel",
             "repo": "XLeRobot",
-            "stars": 5419
+            "stars": 5421
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2025-12-08T23:42:58Z",
             "owner": "nomorewzx",
             "repo": "PingTi-Arm",
-            "stars": 52
+            "stars": 53
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2026-06-15T05:54:16Z",
             "owner": "StoneT2000",
             "repo": "lerobot-sim2real",
-            "stars": 392
+            "stars": 393
           }
         },
         {
@@ -398,10 +398,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-02T11:33:05Z",
+            "last_commit": "2026-08-16T14:12:48Z",
             "owner": "learnsyslab",
             "repo": "crisp_controllers",
-            "stars": 229
+            "stars": 228
           }
         },
         {
@@ -597,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:17:32.776Z",
+    "last_updated": "2026-08-17T02:15:28.510Z",
     "original_repository": "Tavish9/any4lerobot",
     "original_repository_sha": "69373154e763b5c9204241d2d67e0195be439e29",
     "enhanced_repository": "enhansome/enhansome-any4lerobot",
