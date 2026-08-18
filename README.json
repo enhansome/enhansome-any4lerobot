@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T03:52:48Z",
+            "last_commit": "2026-08-17T22:15:55Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26691
+            "stars": 26716
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-06-16T00:14:01Z",
             "owner": "Physical-Intelligence",
             "repo": "openpi",
-            "stars": 13328
+            "stars": 13353
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-10T17:26:32Z",
             "owner": "NVIDIA",
             "repo": "Isaac-GR00T",
-            "stars": 7838
+            "stars": 7846
           }
         },
         {
@@ -269,7 +269,7 @@
             "last_commit": "2026-07-22T20:26:45Z",
             "owner": "Vector-Wangel",
             "repo": "XLeRobot",
-            "stars": 5421
+            "stars": 5426
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2026-08-05T09:25:59Z",
             "owner": "SIGRobotics-UIUC",
             "repo": "LeKiwi",
-            "stars": 1386
+            "stars": 1387
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2026-04-09T13:26:04Z",
             "owner": "maximilienroberti",
             "repo": "lerobotdepot",
-            "stars": 234
+            "stars": 235
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2025-09-28T13:19:34Z",
             "owner": "jeongeun980906",
             "repo": "lerobot-mujoco-tutorial",
-            "stars": 601
+            "stars": 602
           }
         },
         {
@@ -443,7 +443,7 @@
             "last_commit": "2026-05-26T10:34:06Z",
             "owner": "huggingface",
             "repo": "robotics-course",
-            "stars": 146
+            "stars": 147
           }
         },
         {
@@ -597,9 +597,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:15:28.510Z",
+    "last_updated": "2026-08-18T02:11:18.124Z",
     "original_repository": "Tavish9/any4lerobot",
-    "original_repository_sha": "69373154e763b5c9204241d2d67e0195be439e29",
+    "original_repository_sha": "e5f767f39da57be0d3f077ff8935b53803e03395",
     "enhanced_repository": "enhansome/enhansome-any4lerobot",
     "enhanced_repository_description": null,
     "title": "Awesome any4lerobot with stars"
