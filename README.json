@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 748713144,
                 "language": "Python",
-                "last_commit": "2026-08-21T23:05:07Z",
+                "last_commit": "2026-08-22T20:38:38Z",
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 26811
+                "stars": 26835
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-06-16T00:14:01Z",
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 13414
+                "stars": 13419
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-20T21:25:42Z",
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7879
+                "stars": 7888
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2025-01-08T12:41:33Z",
                 "owner": "dora-rs",
                 "repo": "dora-lerobot",
-                "stars": 133
+                "stars": 134
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2026-07-22T20:26:45Z",
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5437
+                "stars": 5443
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2026-08-05T09:25:59Z",
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1390
+                "stars": 1391
               }
             },
             {
@@ -621,7 +621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:10:32.933Z",
+    "last_updated": "2026-08-23T02:20:07.901Z",
     "original_repository": "Tavish9/any4lerobot",
     "original_repository_id": 935190749,
     "original_repository_sha": "e5f767f39da57be0d3f077ff8935b53803e03395",
