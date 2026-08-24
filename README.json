@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 748713144,
                 "language": "Python",
-                "last_commit": "2026-08-23T21:02:20Z",
+                "last_commit": "2026-08-24T09:58:23Z",
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 26856
+                "stars": 26871
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-06-16T00:14:01Z",
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 13429
+                "stars": 13449
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-20T21:25:42Z",
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7891
+                "stars": 7902
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2026-07-22T20:26:45Z",
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5448
+                "stars": 5450
               }
             },
             {
@@ -383,7 +383,7 @@
                 "last_commit": "2025-09-28T13:19:34Z",
                 "owner": "jeongeun980906",
                 "repo": "lerobot-mujoco-tutorial",
-                "stars": 604
+                "stars": 607
               }
             },
             {
@@ -398,7 +398,7 @@
                 "last_commit": "2026-04-09T15:51:15Z",
                 "owner": "fracapuano",
                 "repo": "robot-learning-tutorial",
-                "stars": 569
+                "stars": 570
               }
             },
             {
@@ -621,7 +621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:19:02.868Z",
+    "last_updated": "2026-08-24T14:12:42.219Z",
     "original_repository": "Tavish9/any4lerobot",
     "original_repository_id": 935190749,
     "original_repository_sha": "e5f767f39da57be0d3f077ff8935b53803e03395",
