@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 748713144,
                 "language": "Python",
-                "last_commit": "2026-08-24T23:03:46Z",
+                "last_commit": "2026-08-25T03:48:20Z",
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 26884
+                "stars": 26897
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-24T16:27:13Z",
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 13452
+                "stars": 13459
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-20T21:25:42Z",
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7904
+                "stars": 7908
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2026-07-22T20:26:45Z",
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5451
+                "stars": 5452
               }
             },
             {
@@ -383,7 +383,7 @@
                 "last_commit": "2025-09-28T13:19:34Z",
                 "owner": "jeongeun980906",
                 "repo": "lerobot-mujoco-tutorial",
-                "stars": 607
+                "stars": 608
               }
             },
             {
@@ -518,7 +518,7 @@
                 "last_commit": "2026-03-13T06:12:57Z",
                 "owner": "RoboticsData",
                 "repo": "score_lerobot_episodes",
-                "stars": 72
+                "stars": 73
               }
             },
             {
@@ -621,7 +621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:14:09.106Z",
+    "last_updated": "2026-08-25T06:09:08.412Z",
     "original_repository": "Tavish9/any4lerobot",
     "original_repository_id": 935190749,
     "original_repository_sha": "e5f767f39da57be0d3f077ff8935b53803e03395",
