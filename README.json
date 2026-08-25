@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 748713144,
                 "language": "Python",
-                "last_commit": "2026-08-24T09:58:23Z",
+                "last_commit": "2026-08-24T23:03:46Z",
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 26871
+                "stars": 26884
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 876210014,
                 "language": "Python",
-                "last_commit": "2026-06-16T00:14:01Z",
+                "last_commit": "2026-08-24T16:27:13Z",
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 13449
+                "stars": 13452
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-20T21:25:42Z",
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7902
+                "stars": 7904
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2026-07-22T20:26:45Z",
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5450
+                "stars": 5451
               }
             },
             {
@@ -621,7 +621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:42.219Z",
+    "last_updated": "2026-08-25T02:14:09.106Z",
     "original_repository": "Tavish9/any4lerobot",
     "original_repository_id": 935190749,
     "original_repository_sha": "e5f767f39da57be0d3f077ff8935b53803e03395",
