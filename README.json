@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 748713144,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:48:20Z",
+                "last_commit": "2026-08-25T12:21:19Z",
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 26897
+                "stars": 26914
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-24T16:27:13Z",
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 13459
+                "stars": 13478
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-20T21:25:42Z",
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7908
+                "stars": 7920
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2025-06-23T08:14:13Z",
                 "owner": "SpatialVLA",
                 "repo": "SpatialVLA",
-                "stars": 715
+                "stars": 716
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2026-07-22T20:26:45Z",
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5452
+                "stars": 5456
               }
             },
             {
@@ -383,7 +383,7 @@
                 "last_commit": "2025-09-28T13:19:34Z",
                 "owner": "jeongeun980906",
                 "repo": "lerobot-mujoco-tutorial",
-                "stars": 608
+                "stars": 609
               }
             },
             {
@@ -398,7 +398,7 @@
                 "last_commit": "2026-04-09T15:51:15Z",
                 "owner": "fracapuano",
                 "repo": "robot-learning-tutorial",
-                "stars": 570
+                "stars": 571
               }
             },
             {
@@ -428,7 +428,7 @@
                 "last_commit": "2026-08-16T14:12:48Z",
                 "owner": "learnsyslab",
                 "repo": "crisp_controllers",
-                "stars": 230
+                "stars": 231
               }
             },
             {
@@ -443,7 +443,7 @@
                 "last_commit": "2025-07-09T19:44:39Z",
                 "owner": "Pavankv92",
                 "repo": "lerobot_ws",
-                "stars": 171
+                "stars": 170
               }
             },
             {
@@ -458,7 +458,7 @@
                 "last_commit": "2025-01-17T05:14:03Z",
                 "owner": "CSCSX",
                 "repo": "LeRobotTutorial-CN",
-                "stars": 152
+                "stars": 151
               }
             },
             {
@@ -503,7 +503,7 @@
                 "last_commit": "2026-07-24T09:11:35Z",
                 "owner": "huggingface",
                 "repo": "lerobot-dataset-visualizer",
-                "stars": 121
+                "stars": 122
               }
             },
             {
@@ -621,7 +621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:09:08.412Z",
+    "last_updated": "2026-08-26T02:20:43.686Z",
     "original_repository": "Tavish9/any4lerobot",
     "original_repository_id": 935190749,
     "original_repository_sha": "e5f767f39da57be0d3f077ff8935b53803e03395",
