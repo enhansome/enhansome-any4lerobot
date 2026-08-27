@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 748713144,
                 "language": "Python",
-                "last_commit": "2026-08-25T12:21:19Z",
+                "last_commit": "2026-08-27T05:18:07Z",
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 26914
+                "stars": 26970
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-24T16:27:13Z",
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 13478
+                "stars": 13505
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-20T21:25:42Z",
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7920
+                "stars": 7930
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-05-25T07:52:05Z",
                 "owner": "unitreerobotics",
                 "repo": "unitree_lerobot",
-                "stars": 751
+                "stars": 754
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-07-15T04:51:45Z",
                 "owner": "MINT-SJTU",
                 "repo": "LeRobot-Anything-U-Arm",
-                "stars": 313
+                "stars": 315
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2026-07-22T20:26:45Z",
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5456
+                "stars": 5459
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2026-08-05T09:25:59Z",
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1392
+                "stars": 1393
               }
             },
             {
@@ -316,7 +316,7 @@
                 "last_commit": "2026-04-09T13:26:04Z",
                 "owner": "maximilienroberti",
                 "repo": "lerobotdepot",
-                "stars": 236
+                "stars": 237
               }
             },
             {
@@ -346,7 +346,7 @@
                 "last_commit": "2025-12-08T23:42:58Z",
                 "owner": "nomorewzx",
                 "repo": "PingTi-Arm",
-                "stars": 53
+                "stars": 54
               }
             },
             {
@@ -383,7 +383,7 @@
                 "last_commit": "2025-09-28T13:19:34Z",
                 "owner": "jeongeun980906",
                 "repo": "lerobot-mujoco-tutorial",
-                "stars": 609
+                "stars": 610
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2026-05-26T10:34:06Z",
                 "owner": "huggingface",
                 "repo": "robotics-course",
-                "stars": 148
+                "stars": 149
               }
             },
             {
@@ -503,7 +503,7 @@
                 "last_commit": "2026-07-24T09:11:35Z",
                 "owner": "huggingface",
                 "repo": "lerobot-dataset-visualizer",
-                "stars": 122
+                "stars": 124
               }
             },
             {
@@ -533,7 +533,7 @@
                 "last_commit": "2025-12-30T19:29:54Z",
                 "owner": "liorbenhorin",
                 "repo": "lerobot_so101_teleop",
-                "stars": 65
+                "stars": 66
               }
             },
             {
@@ -621,9 +621,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:20:43.686Z",
-    "original_repository": "Tavish9/any4lerobot",
-    "original_repository_id": 935190749,
+    "last_updated": "2026-08-27T10:48:09.803Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 935190749,
+      "language": "Python",
+      "last_commit": "2026-08-17T16:31:04Z",
+      "owner": "Tavish9",
+      "repo": "any4lerobot",
+      "stars": 1141
+    },
     "original_repository_sha": "e5f767f39da57be0d3f077ff8935b53803e03395",
     "enhanced_repository": "enhansome/enhansome-any4lerobot",
     "enhanced_repository_description": null,
