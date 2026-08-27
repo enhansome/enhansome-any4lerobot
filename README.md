@@ -8,8 +8,8 @@
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Tavish9/any4lerobot)
 [![Python versions](https://img.shields.io/pypi/pyversions/lerobot)](https://www.python.org/downloads/)
-[![LeRobot Dataset](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/tavish9/any4lerobot/commits?per_page=1\&query=$\[0\].commit.committer.date\&label=LeRobot\&color=blue)](https://github.com/huggingface/lerobot) ⭐ 26,970 | 🐛 828 | 🌐 Python | 📅 2026-08-27
-[![LeRobot Dataset](https://img.shields.io/badge/LeRobot%20Dataset-v3.0-ff69b4.svg)](https://github.com/huggingface/lerobot/pull/1412) ⭐ 26,970 | 🐛 828 | 🌐 Python | 📅 2026-08-27
+[![LeRobot Dataset](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/tavish9/any4lerobot/commits?per_page=1\&query=$\[0\].commit.committer.date\&label=LeRobot\&color=blue)](https://github.com/huggingface/lerobot) ⭐ 26,972 | 🐛 826 | 🌐 Python | 📅 2026-08-27
+[![LeRobot Dataset](https://img.shields.io/badge/LeRobot%20Dataset-v3.0-ff69b4.svg)](https://github.com/huggingface/lerobot/pull/1412) ⭐ 26,972 | 🐛 826 | 🌐 Python | 📅 2026-08-27
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 </div>
@@ -18,7 +18,7 @@
 >
 > **Star and Contribute**, let's make community of robotics better and better! 🔥
 
-A curated collection of utilities for [LeRobot Projects](https://github.com/huggingface/lerobot) ⭐ 26,970 | 🐛 828 | 🌐 Python | 📅 2026-08-27, including data conversion scripts, preprocessing tools, training workflow helpers and etc..
+A curated collection of utilities for [LeRobot Projects](https://github.com/huggingface/lerobot) ⭐ 26,972 | 🐛 826 | 🌐 Python | 📅 2026-08-27, including data conversion scripts, preprocessing tools, training workflow helpers and etc..
 
 ## 📣 What's New <a><img width="35" height="20" src="https://user-images.githubusercontent.com/12782558/212848161-5e783dd6-11e8-4fe0-bbba-39ffb77730be.png"></a>
 
@@ -78,9 +78,9 @@ A curated collection of utilities for [LeRobot Projects](https://github.com/hugg
 
 ### Model
 
-* [SmolVLA](https://huggingface.co/blog/smolvla): Efficient Vision-Language-Action Model trained on Lerobot Community Data [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/huggingface/lerobot">](https://github.com/huggingface/lerobot) ⭐ 26,970 | 🐛 828 | 🌐 Python | 📅 2026-08-27
+* [SmolVLA](https://huggingface.co/blog/smolvla): Efficient Vision-Language-Action Model trained on Lerobot Community Data [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/huggingface/lerobot">](https://github.com/huggingface/lerobot) ⭐ 26,972 | 🐛 826 | 🌐 Python | 📅 2026-08-27
 * [openpi](https://www.physicalintelligence.company/blog/pi0): the official implementation of $π\_0$: A Vision-Language-Action Flow Model for General Robot Control [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Physical-Intelligence/openpi">](https://github.com/Physical-Intelligence/openpi) ⭐ 13,505 | 🐛 329 | 🌐 Python | 📅 2026-08-24
-* [Isaac-GR00T](https://developer.nvidia.com/isaac/gr00t): NVIDIA Isaac GR00T N1 is the world's first open foundation model for generalized humanoid robot reasoning and skills [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/NVIDIA/Isaac-GR00T">](https://github.com/NVIDIA/Isaac-GR00T) ⭐ 7,930 | 🐛 321 | 🌐 Python | 📅 2026-08-20
+* [Isaac-GR00T](https://developer.nvidia.com/isaac/gr00t): NVIDIA Isaac GR00T N1 is the world's first open foundation model for generalized humanoid robot reasoning and skills [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/NVIDIA/Isaac-GR00T">](https://github.com/NVIDIA/Isaac-GR00T) ⭐ 7,930 | 🐛 320 | 🌐 Python | 📅 2026-08-20
 * [SpatialVLA](https://spatialvla.github.io/): a spatial-enhanced vision-language-action model that is trained on 1.1 Million real robot episodes [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SpatialVLA/SpatialVLA">](https://github.com/SpatialVLA/SpatialVLA) ⭐ 716 | 🐛 36 | 🌐 Python | 📅 2025-06-23
 * [EO1](https://eo-robotics.ai/eo-1): An Open Unified Embodied Foundation Model for General Robot Control Trained on Interleaved Vision-Text-Action Data [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EO-Robotics/EO1">](https://github.com/EO-Robotics/EO1) ⚠️ Archived
 * [OneTwoVLA](https://one-two-vla.github.io/): A Unified Vision-Language-Action Model with Adaptive Reasoning [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Fanqi-Lin/OneTwoVLA">](https://github.com/Fanqi-Lin/OneTwoVLA) ⭐ 238 | 🐛 14 | 🌐 Python | 📅 2025-05-30
