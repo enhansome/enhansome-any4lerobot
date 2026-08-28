@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 748713144,
                 "language": "Python",
-                "last_commit": "2026-08-27T05:18:07Z",
+                "last_commit": "2026-08-28T09:55:41Z",
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 26972
-              }
+                "stars": 27005
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-24T16:27:13Z",
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 13505
-              }
+                "stars": 13516
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-20T21:25:42Z",
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7930
-              }
+                "stars": 7944
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2025-06-23T08:14:13Z",
                 "owner": "SpatialVLA",
                 "repo": "SpatialVLA",
-                "stars": 716
-              }
+                "stars": 717
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "EO-Robotics",
                 "repo": "EO1",
                 "stars": 292
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "Fanqi-Lin",
                 "repo": "OneTwoVLA",
                 "stars": 238
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "hume-vla",
                 "repo": "hume",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             }
           ],
           "description": null,
@@ -129,8 +136,9 @@
                 "last_commit": "2026-05-25T07:52:05Z",
                 "owner": "unitreerobotics",
                 "repo": "unitree_lerobot",
-                "stars": 754
-              }
+                "stars": 755
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -144,8 +152,9 @@
                 "last_commit": "2026-07-15T04:51:45Z",
                 "owner": "MINT-SJTU",
                 "repo": "LeRobot-Anything-U-Arm",
-                "stars": 315
-              }
+                "stars": 316
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "wengmister",
                 "repo": "LeFranX",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "dora-rs",
                 "repo": "dora-lerobot",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "FFTAI",
                 "repo": "fourier-lerobot",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "lykycy123",
                 "repo": "lerobot-piper",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "LiZhYun",
                 "repo": "BiLerobot",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "LilyHuang-HZ",
                 "repo": "Lerobot-koch",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "SpesRobotics",
                 "repo": "lerobot-robot-xarm",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "Ryu-Yang",
                 "repo": "adora-lerobot",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             }
           ],
           "description": null,
@@ -286,8 +303,9 @@
                 "last_commit": "2026-07-22T20:26:45Z",
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5459
-              }
+                "stars": 5463
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -302,7 +320,8 @@
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
                 "stars": 1393
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -317,7 +336,8 @@
                 "owner": "maximilienroberti",
                 "repo": "lerobotdepot",
                 "stars": 237
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -332,7 +352,8 @@
                 "owner": "box2ai-robotics",
                 "repo": "lerobot-kinematics",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "nomorewzx",
                 "repo": "PingTi-Arm",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -362,7 +384,8 @@
                 "owner": "wuxiaoqiang12",
                 "repo": "LeDog",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             }
           ],
           "description": null,
@@ -384,7 +407,8 @@
                 "owner": "jeongeun980906",
                 "repo": "lerobot-mujoco-tutorial",
                 "stars": 610
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -399,7 +423,8 @@
                 "owner": "fracapuano",
                 "repo": "robot-learning-tutorial",
                 "stars": 571
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -413,8 +438,9 @@
                 "last_commit": "2026-06-15T05:54:16Z",
                 "owner": "StoneT2000",
                 "repo": "lerobot-sim2real",
-                "stars": 396
-              }
+                "stars": 397
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -428,8 +454,9 @@
                 "last_commit": "2026-08-16T14:12:48Z",
                 "owner": "learnsyslab",
                 "repo": "crisp_controllers",
-                "stars": 231
-              }
+                "stars": 233
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -444,7 +471,8 @@
                 "owner": "Pavankv92",
                 "repo": "lerobot_ws",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -459,7 +487,8 @@
                 "owner": "CSCSX",
                 "repo": "LeRobotTutorial-CN",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -474,7 +503,8 @@
                 "owner": "huggingface",
                 "repo": "robotics-course",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -489,7 +519,8 @@
                 "owner": "ROBOTIS-GIT",
                 "repo": "physical_ai_tools",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -504,7 +535,8 @@
                 "owner": "huggingface",
                 "repo": "lerobot-dataset-visualizer",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -518,8 +550,9 @@
                 "last_commit": "2026-03-13T06:12:57Z",
                 "owner": "RoboticsData",
                 "repo": "score_lerobot_episodes",
-                "stars": 73
-              }
+                "stars": 74
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -534,7 +567,8 @@
                 "owner": "liorbenhorin",
                 "repo": "lerobot_so101_teleop",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -549,7 +583,8 @@
                 "owner": "michel-aractingi",
                 "repo": "lerobot-hilserl-guide",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -564,7 +599,8 @@
                 "owner": "TimPietrusky",
                 "repo": "lerobot.js",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -579,7 +615,8 @@
                 "owner": "astroyat",
                 "repo": "lerobot-ros",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -594,7 +631,8 @@
                 "owner": "nicolas-rabault",
                 "repo": "leLab",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             },
             {
               "node_type": "item",
@@ -609,7 +647,8 @@
                 "owner": "masato-ka",
                 "repo": "lero",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
             }
           ],
           "description": null,
@@ -621,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:19:47.239Z",
+    "last_updated": "2026-08-28T12:24:30.524Z",
     "original_repository_info": {
       "archived": false,
       "id": 935190749,
@@ -629,7 +668,7 @@
       "last_commit": "2026-08-17T16:31:04Z",
       "owner": "Tavish9",
       "repo": "any4lerobot",
-      "stars": 1141
+      "stars": 1142
     },
     "original_repository_sha": "e5f767f39da57be0d3f077ff8935b53803e03395",
     "enhanced_repository": "enhansome/enhansome-any4lerobot",

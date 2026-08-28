@@ -8,8 +8,8 @@
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Tavish9/any4lerobot)
 [![Python versions](https://img.shields.io/pypi/pyversions/lerobot)](https://www.python.org/downloads/)
-[![LeRobot Dataset](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/tavish9/any4lerobot/commits?per_page=1\&query=$\[0\].commit.committer.date\&label=LeRobot\&color=blue)](https://github.com/huggingface/lerobot) ⭐ 26,972 | 🐛 826 | 🌐 Python | 📅 2026-08-27
-[![LeRobot Dataset](https://img.shields.io/badge/LeRobot%20Dataset-v3.0-ff69b4.svg)](https://github.com/huggingface/lerobot/pull/1412) ⭐ 26,972 | 🐛 826 | 🌐 Python | 📅 2026-08-27
+[![LeRobot Dataset](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/tavish9/any4lerobot/commits?per_page=1\&query=$\[0\].commit.committer.date\&label=LeRobot\&color=blue)](https://github.com/huggingface/lerobot) ⭐ 27,005 | 🐛 833 | 🌐 Python | 📅 2026-08-28
+[![LeRobot Dataset](https://img.shields.io/badge/LeRobot%20Dataset-v3.0-ff69b4.svg)](https://github.com/huggingface/lerobot/pull/1412) ⭐ 27,005 | 🐛 833 | 🌐 Python | 📅 2026-08-28
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 </div>
@@ -18,7 +18,7 @@
 >
 > **Star and Contribute**, let's make community of robotics better and better! 🔥
 
-A curated collection of utilities for [LeRobot Projects](https://github.com/huggingface/lerobot) ⭐ 26,972 | 🐛 826 | 🌐 Python | 📅 2026-08-27, including data conversion scripts, preprocessing tools, training workflow helpers and etc..
+A curated collection of utilities for [LeRobot Projects](https://github.com/huggingface/lerobot) ⭐ 27,005 | 🐛 833 | 🌐 Python | 📅 2026-08-28, including data conversion scripts, preprocessing tools, training workflow helpers and etc..
 
 ## 📣 What's New <a><img width="35" height="20" src="https://user-images.githubusercontent.com/12782558/212848161-5e783dd6-11e8-4fe0-bbba-39ffb77730be.png"></a>
 
@@ -72,16 +72,16 @@ A curated collection of utilities for [LeRobot Projects](https://github.com/hugg
 
   * [ ] MultiLeRobotDataset
 
-* [**Want more features?**](https://github.com/Tavish9/any4lerobot/issues/new?template=feature-request.yml) ⭐ 1,141 | 🐛 4 | 🌐 Python | 📅 2026-08-17
+* [**Want more features?**](https://github.com/Tavish9/any4lerobot/issues/new?template=feature-request.yml) ⭐ 1,142 | 🐛 4 | 🌐 Python | 📅 2026-08-17
 
 ## 📚 Awesome LeRobot
 
 ### Model
 
-* [SmolVLA](https://huggingface.co/blog/smolvla): Efficient Vision-Language-Action Model trained on Lerobot Community Data [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/huggingface/lerobot">](https://github.com/huggingface/lerobot) ⭐ 26,972 | 🐛 826 | 🌐 Python | 📅 2026-08-27
-* [openpi](https://www.physicalintelligence.company/blog/pi0): the official implementation of $π\_0$: A Vision-Language-Action Flow Model for General Robot Control [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Physical-Intelligence/openpi">](https://github.com/Physical-Intelligence/openpi) ⭐ 13,505 | 🐛 329 | 🌐 Python | 📅 2026-08-24
-* [Isaac-GR00T](https://developer.nvidia.com/isaac/gr00t): NVIDIA Isaac GR00T N1 is the world's first open foundation model for generalized humanoid robot reasoning and skills [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/NVIDIA/Isaac-GR00T">](https://github.com/NVIDIA/Isaac-GR00T) ⭐ 7,930 | 🐛 320 | 🌐 Python | 📅 2026-08-20
-* [SpatialVLA](https://spatialvla.github.io/): a spatial-enhanced vision-language-action model that is trained on 1.1 Million real robot episodes [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SpatialVLA/SpatialVLA">](https://github.com/SpatialVLA/SpatialVLA) ⭐ 716 | 🐛 36 | 🌐 Python | 📅 2025-06-23
+* [SmolVLA](https://huggingface.co/blog/smolvla): Efficient Vision-Language-Action Model trained on Lerobot Community Data [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/huggingface/lerobot">](https://github.com/huggingface/lerobot) ⭐ 27,005 | 🐛 833 | 🌐 Python | 📅 2026-08-28
+* [openpi](https://www.physicalintelligence.company/blog/pi0): the official implementation of $π\_0$: A Vision-Language-Action Flow Model for General Robot Control [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Physical-Intelligence/openpi">](https://github.com/Physical-Intelligence/openpi) ⭐ 13,516 | 🐛 329 | 🌐 Python | 📅 2026-08-24
+* [Isaac-GR00T](https://developer.nvidia.com/isaac/gr00t): NVIDIA Isaac GR00T N1 is the world's first open foundation model for generalized humanoid robot reasoning and skills [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/NVIDIA/Isaac-GR00T">](https://github.com/NVIDIA/Isaac-GR00T) ⭐ 7,944 | 🐛 322 | 🌐 Python | 📅 2026-08-20
+* [SpatialVLA](https://spatialvla.github.io/): a spatial-enhanced vision-language-action model that is trained on 1.1 Million real robot episodes [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SpatialVLA/SpatialVLA">](https://github.com/SpatialVLA/SpatialVLA) ⭐ 717 | 🐛 36 | 🌐 Python | 📅 2025-06-23
 * [EO1](https://eo-robotics.ai/eo-1): An Open Unified Embodied Foundation Model for General Robot Control Trained on Interleaved Vision-Text-Action Data [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EO-Robotics/EO1">](https://github.com/EO-Robotics/EO1) ⚠️ Archived
 * [OneTwoVLA](https://one-two-vla.github.io/): A Unified Vision-Language-Action Model with Adaptive Reasoning [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Fanqi-Lin/OneTwoVLA">](https://github.com/Fanqi-Lin/OneTwoVLA) ⭐ 238 | 🐛 14 | 🌐 Python | 📅 2025-05-30
 * [Hume](https://hume-vla.github.io): A Dual-System VLA with System2 Thinking [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hume-vla/hume">](https://github.com/hume-vla/hume) ⭐ 149 | 🐛 14 | 🌐 Python | 📅 2025-08-21
@@ -99,8 +99,8 @@ A curated collection of utilities for [LeRobot Projects](https://github.com/hugg
 
 ### Embodiment Extensions
 
-* [unitree\_IL\_lerobot](https://github.com/unitreerobotics/unitree_IL_lerobot) ⭐ 754 | 🐛 28 | 🌐 Python | 📅 2026-05-25: a training framework enabling the training and testing of data collected using Unitree's G1 robot [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_IL_lerobot">](https://github.com/unitreerobotics/unitree_IL_lerobot) ⭐ 754 | 🐛 28 | 🌐 Python | 📅 2026-05-25
-* [U-Arm](https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm) ⭐ 315 | 🐛 4 | 🌐 Python | 📅 2026-07-15: Lerobot-Everything-Cross-Embodiment-Teleoperation [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MINT-SJTU/LeRobot-Anything-U-Arm">](https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm) ⭐ 315 | 🐛 4 | 🌐 Python | 📅 2026-07-15
+* [unitree\_IL\_lerobot](https://github.com/unitreerobotics/unitree_IL_lerobot) ⭐ 755 | 🐛 28 | 🌐 Python | 📅 2026-05-25: a training framework enabling the training and testing of data collected using Unitree's G1 robot [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_IL_lerobot">](https://github.com/unitreerobotics/unitree_IL_lerobot) ⭐ 755 | 🐛 28 | 🌐 Python | 📅 2026-05-25
+* [U-Arm](https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm) ⭐ 316 | 🐛 4 | 🌐 Python | 📅 2026-07-15: Lerobot-Everything-Cross-Embodiment-Teleoperation [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MINT-SJTU/LeRobot-Anything-U-Arm">](https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm) ⭐ 316 | 🐛 4 | 🌐 Python | 📅 2026-07-15
 * [LeFranX](https://github.com/wengmister/LeFranX) ⭐ 143 | 🐛 0 | 🌐 Python | 📅 2025-09-22: Franka and XHand Extension for LeRobot [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wengmister/LeFranX">](https://github.com/wengmister/LeFranX) ⭐ 143 | 🐛 0 | 🌐 Python | 📅 2025-09-22
 * [Dora-LeRobot](https://github.com/dora-rs/dora-lerobot) ⭐ 134 | 🐛 5 | 🌐 Python | 📅 2025-01-08: Lerobot boosted with dora [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dora-rs/dora-lerobot">](https://github.com/dora-rs/dora-lerobot) ⭐ 134 | 🐛 5 | 🌐 Python | 📅 2025-01-08
 * [Fourier-Lerobot](https://github.com/FFTAI/fourier-lerobot) ⭐ 85 | 🐛 7 | 🌐 Python | 📅 2026-02-12: A training pipeline with Fourier dataset [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/FFTAI/fourier-lerobot">](https://github.com/FFTAI/fourier-lerobot) ⭐ 85 | 🐛 7 | 🌐 Python | 📅 2026-02-12
@@ -112,7 +112,7 @@ A curated collection of utilities for [LeRobot Projects](https://github.com/hugg
 
 ### Hardware
 
-* [XLeRobot](https://github.com/Vector-Wangel/XLeRobot) ⭐ 5,459 | 🐛 39 | 🌐 Python | 📅 2026-07-22: Fully Autonomous Household Dual-Arm Mobile Robot for $998 [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Vector-Wangel/XLeRobot">](https://github.com/Vector-Wangel/XLeRobot) ⭐ 5,459 | 🐛 39 | 🌐 Python | 📅 2026-07-22
+* [XLeRobot](https://github.com/Vector-Wangel/XLeRobot) ⭐ 5,463 | 🐛 39 | 🌐 Python | 📅 2026-07-22: Fully Autonomous Household Dual-Arm Mobile Robot for $998 [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Vector-Wangel/XLeRobot">](https://github.com/Vector-Wangel/XLeRobot) ⭐ 5,463 | 🐛 39 | 🌐 Python | 📅 2026-07-22
 * [LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi) ⭐ 1,393 | 🐛 12 | 📅 2026-08-05: Low-Cost Mobile Manipulator [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SIGRobotics-UIUC/LeKiwi">](https://github.com/SIGRobotics-UIUC/LeKiwi) ⭐ 1,393 | 🐛 12 | 📅 2026-08-05
 * [lerobotdepot](https://github.com/maximilienroberti/lerobotdepot) ⭐ 237 | 🐛 18 | 📅 2026-04-09: a repo for hardware, components, and 3D-printable projects compatible with the LeRobot library [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/maximilienroberti/lerobotdepot">](https://github.com/maximilienroberti/lerobotdepot) ⭐ 237 | 🐛 18 | 📅 2026-04-09
 * [LeRobot-Kinematics](https://github.com/box2ai-robotics/lerobot-kinematics) ⭐ 126 | 🐛 0 | 🌐 C++ | 📅 2025-08-16: Simple and Accurate Forward and Inverse Kinematics Examples for the Lerobot SO100 ARM [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/box2ai-robotics/lerobot-kinematics">](https://github.com/box2ai-robotics/lerobot-kinematics) ⭐ 126 | 🐛 0 | 🌐 C++ | 📅 2025-08-16
@@ -123,14 +123,14 @@ A curated collection of utilities for [LeRobot Projects](https://github.com/hugg
 
 * [LeRobot Tutorial with MuJoCo](https://github.com/jeongeun980906/lerobot-mujoco-tutorial) ⭐ 610 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-09-28: Examples for collecting data and training with MuJoCo [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jeongeun980906/lerobot-mujoco-tutorial">](https://github.com/jeongeun980906/lerobot-mujoco-tutorial) ⭐ 610 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-09-28
 * [Robot Learning: A Tutorial](https://github.com/fracapuano/robot-learning-tutorial) ⭐ 571 | 🐛 16 | 🌐 TeX | 📅 2026-04-09: All the source code for "Robot Learning: A Tutorial". Get involved to be featured in the next iteration [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/fracapuano/robot-learning-tutorial">](https://github.com/fracapuano/robot-learning-tutorial) ⭐ 571 | 🐛 16 | 🌐 TeX | 📅 2026-04-09
-* [LeRobot Sim2Real](https://github.com/StoneT2000/lerobot-sim2real) ⭐ 396 | 🐛 11 | 🌐 Python | 📅 2026-06-15: Train in fast simulation and deploy visual policies zero shot to the real world [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/StoneT2000/lerobot-sim2real">](https://github.com/StoneT2000/lerobot-sim2real) ⭐ 396 | 🐛 11 | 🌐 Python | 📅 2026-06-15
-* [CRISP](https://utiasdsl.github.io/crisp_controllers/): Record datasets and deploy policies using LeRobot and ROS2-compatible manipulators (Franka Robotics FR3 and more supported) [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/utiasdsl/crisp_controllers">](https://github.com/utiasdsl/crisp_controllers) ⭐ 231 | 🐛 9 | 🌐 C++ | 📅 2026-08-16
+* [LeRobot Sim2Real](https://github.com/StoneT2000/lerobot-sim2real) ⭐ 397 | 🐛 11 | 🌐 Python | 📅 2026-06-15: Train in fast simulation and deploy visual policies zero shot to the real world [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/StoneT2000/lerobot-sim2real">](https://github.com/StoneT2000/lerobot-sim2real) ⭐ 397 | 🐛 11 | 🌐 Python | 📅 2026-06-15
+* [CRISP](https://utiasdsl.github.io/crisp_controllers/): Record datasets and deploy policies using LeRobot and ROS2-compatible manipulators (Franka Robotics FR3 and more supported) [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/utiasdsl/crisp_controllers">](https://github.com/utiasdsl/crisp_controllers) ⭐ 233 | 🐛 9 | 🌐 C++ | 📅 2026-08-16
 * [lerobot\_ws](https://github.com/Pavankv92/lerobot_ws) ⭐ 170 | 🐛 4 | 🌐 Python | 📅 2025-07-09: ROS 2 Package for LeRobot SO-ARM101 [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Pavankv92/lerobot_ws">](https://github.com/Pavankv92/lerobot_ws) ⭐ 170 | 🐛 4 | 🌐 Python | 📅 2025-07-09
 * [LeRobotTutorial-CN](https://github.com/CSCSX/LeRobotTutorial-CN) ⭐ 151 | 🐛 1 | 📅 2025-01-17: a tutorial for LeRobot in Chinese [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/CSCSX/LeRobotTutorial-CN">](https://github.com/CSCSX/LeRobotTutorial-CN) ⭐ 151 | 🐛 1 | 📅 2025-01-17
 * [Robotics Course](https://github.com/huggingface/robotics-course) ⭐ 149 | 🐛 24 | 🌐 MDX | 📅 2026-05-26: A course on robotics by Hugging Face using LeRobot [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/huggingface/robotics-course">](https://github.com/huggingface/robotics-course) ⭐ 149 | 🐛 24 | 🌐 MDX | 📅 2026-05-26
 * [Physical AI Tools](https://github.com/ROBOTIS-GIT/physical_ai_tools) ⭐ 143 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-26: Physical AI Development Interface with LeRobot and ROS 2 [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ROBOTIS-GIT/physical_ai_tools">](https://github.com/ROBOTIS-GIT/physical_ai_tools) ⭐ 143 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-26
 * [LeRobot Dataset Visualizer](https://github.com/huggingface/lerobot-dataset-visualizer) ⭐ 124 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-24: Web application for visualizing robotics datasets in LeRobot format [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/huggingface/lerobot-dataset-visualizer">](https://github.com/huggingface/lerobot-dataset-visualizer) ⭐ 124 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-24
-* [LeRobot Episode Scoring Toolkit](https://github.com/RoboticsData/score_lerobot_episodes) ⭐ 73 | 🐛 5 | 🌐 Python | 📅 2026-03-13: One-click tool to score, filter, and export higher-quality LeRobot datasets [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RoboticsData/score_lerobot_episodes">](https://github.com/RoboticsData/score_lerobot_episodes) ⭐ 73 | 🐛 5 | 🌐 Python | 📅 2026-03-13
+* [LeRobot Episode Scoring Toolkit](https://github.com/RoboticsData/score_lerobot_episodes) ⭐ 74 | 🐛 5 | 🌐 Python | 📅 2026-03-13: One-click tool to score, filter, and export higher-quality LeRobot datasets [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RoboticsData/score_lerobot_episodes">](https://github.com/RoboticsData/score_lerobot_episodes) ⭐ 74 | 🐛 5 | 🌐 Python | 📅 2026-03-13
 * [lerobot\_so101\_teleop](https://github.com/liorbenhorin/lerobot_so101_teleop) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2025-12-30: Sample Environment for the LeRobot SO-101 Robot in Isaac Lab to collect demonstrations in a simulation [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/liorbenhorin/lerobot_so101_teleop">](https://github.com/liorbenhorin/lerobot_so101_teleop) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2025-12-30
 * [lerobot-hilserl-guide](https://github.com/michel-aractingi/lerobot-hilserl-guide) ⭐ 54 | 🐛 3 | 📅 2025-09-29: Guide and tutorial to run the HILSerl implementation of LeRobot [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/michel-aractingi/lerobot-hilserl-guide">](https://github.com/michel-aractingi/lerobot-hilserl-guide) ⭐ 54 | 🐛 3 | 📅 2025-09-29
 * [LeRobot.js](https://github.com/TimPietrusky/lerobot.js) ⭐ 39 | 🐛 3 | 🌐 TypeScript | 📅 2025-11-14: interact with your robot in JS, inspired by LeRobot [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/TimPietrusky/lerobot.js">](https://github.com/TimPietrusky/lerobot.js) ⭐ 39 | 🐛 3 | 🌐 TypeScript | 📅 2025-11-14
@@ -188,4 +188,4 @@ If you find this repository helpful in your research or projects, please conside
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
