@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+                "homepage": "https://huggingface.co/docs/lerobot",
                 "id": 748713144,
                 "language": "Python",
-                "last_commit": "2026-08-28T09:55:41Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:38:02Z",
+                "open_issues": 833,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 27005
+                "stars": 27026,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 876210014,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T16:27:13Z",
+                "open_issues": 329,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 13516
+                "stars": 13524,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NVIDIA Isaac GR00T N1.7 -  A Foundation Model for Generalist Robots.",
+                "homepage": "https://developer.nvidia.com/isaac/gr00t",
                 "id": 946829547,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T21:25:42Z",
+                "open_issues": 322,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7944
+                "stars": 7945,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -60,12 +75,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 SpatialVLA: a spatial-enhanced vision-language-action model that is trained on 1.1 Million real robot episodes. Accepted at RSS 2025.",
+                "homepage": "https://spatialvla.github.io/",
                 "id": 923979366,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-23T08:14:13Z",
+                "open_issues": 36,
                 "owner": "SpatialVLA",
                 "repo": "SpatialVLA",
-                "stars": 717
+                "stars": 717,
+                "topics": [
+                  "generalist-robot-policies",
+                  "huggingface",
+                  "rss",
+                  "rss2025",
+                  "visual-language-action-model",
+                  "vla"
+                ]
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -76,12 +103,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "EO: Open-source Unified Embodied Foundation Model Series",
+                "homepage": "https://eo-robotics.ai",
                 "id": 1046579103,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-11-12T01:37:40Z",
+                "open_issues": 7,
                 "owner": "EO-Robotics",
                 "repo": "EO1",
-                "stars": 292
+                "stars": 292,
+                "topics": [
+                  "embodied-ai",
+                  "generalist-robot-policy",
+                  "large-embodied-model",
+                  "robot-control",
+                  "unified-model",
+                  "vla"
+                ]
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -92,12 +131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning\"",
+                "homepage": "https://one-two-vla.github.io",
                 "id": 985132242,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-30T06:00:03Z",
+                "open_issues": 14,
                 "owner": "Fanqi-Lin",
                 "repo": "OneTwoVLA",
-                "stars": 238
+                "stars": 238,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -108,12 +152,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦾  A Dual-System VLA with System2 Thinking",
+                "homepage": "https://hume-vla.github.io/",
                 "id": 994917566,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-21T07:57:10Z",
+                "open_issues": 14,
                 "owner": "hume-vla",
                 "repo": "hume",
-                "stars": 149
+                "stars": 149,
+                "topics": [
+                  "robotics",
+                  "system2-thinking",
+                  "test-time-computation",
+                  "vla"
+                ]
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             }
@@ -131,12 +185,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The unitree_il_lerobot open-source project is a modification of the LeRobot open-source training framework, enabling the training and testing of data collected using the dual-arm dexterous hands of Unitree's G1 robot. ",
+                "homepage": null,
                 "id": 874533115,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-25T07:52:05Z",
+                "open_issues": 28,
                 "owner": "unitreerobotics",
                 "repo": "unitree_lerobot",
-                "stars": 755
+                "stars": 755,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -147,12 +206,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "U-Arm: Lerobot-Everything-Cross-Embodiment-Teleoperation",
+                "homepage": null,
                 "id": 1039576250,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-15T04:51:45Z",
+                "open_issues": 5,
                 "owner": "MINT-SJTU",
                 "repo": "LeRobot-Anything-U-Arm",
-                "stars": 316
+                "stars": 316,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -163,12 +227,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LeRobot extension for Franka Robot and XHand. An instantiation of LeVR Framework.",
+                "homepage": "https://wengmister.github.io/#lefranx",
                 "id": 1042283898,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-22T16:17:53Z",
+                "open_issues": 0,
                 "owner": "wengmister",
                 "repo": "LeFranX",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -179,12 +248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lerobot boosted with dora",
+                "homepage": null,
                 "id": 790285950,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-08T12:41:33Z",
+                "open_issues": 6,
                 "owner": "dora-rs",
                 "repo": "dora-lerobot",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -195,12 +269,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 943915022,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-12T11:55:16Z",
+                "open_issues": 7,
                 "owner": "FFTAI",
                 "repo": "fourier-lerobot",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -211,12 +290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Lerobot to collect piper robot arm data, and perform training and reasoning 使用lerobot采集piper机械臂数据，并训练和推理",
+                "homepage": null,
                 "id": 970551388,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-10T10:54:39Z",
+                "open_issues": 2,
                 "owner": "lykycy123",
                 "repo": "lerobot-piper",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -227,12 +311,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bimanual robotics platform combining LeRobot and ManiSkill for advanced dual-arm manipulation tasks using the SO100 robot digital twin.",
+                "homepage": null,
                 "id": 1003041695,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-26T11:27:22Z",
+                "open_issues": 0,
                 "owner": "LiZhYun",
                 "repo": "BiLerobot",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -243,12 +332,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "用koch复现lerobot—遥操作数据采集—act复现—diffusion model复现—Pi模型复现—视觉大模型",
+                "homepage": null,
                 "id": 969057488,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-05-16T02:51:22Z",
+                "open_issues": 0,
                 "owner": "LilyHuang-HZ",
                 "repo": "Lerobot-koch",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -259,12 +353,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "xArm integration for LeRobot",
+                "homepage": "https://pypi.org/project/lerobot-robot-xarm/",
                 "id": 1020834177,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-08T20:26:51Z",
+                "open_issues": 1,
                 "owner": "SpesRobotics",
                 "repo": "lerobot-robot-xarm",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "imitation-learning",
+                  "lerobot",
+                  "xarm"
+                ]
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -275,12 +378,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is a modified version of lerobot, specifically adapted for the Adora robot.",
+                "homepage": null,
                 "id": 952361185,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-12T10:24:59Z",
+                "open_issues": 0,
                 "owner": "Ryu-Yang",
                 "repo": "adora-lerobot",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             }
@@ -298,12 +406,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XLeRobot: Practical Dual-Arm Mobile Home Robot for $660",
+                "homepage": "https://xlerobot.readthedocs.io",
                 "id": 972979883,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-22T20:26:45Z",
+                "open_issues": 39,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5463
+                "stars": 5464,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -314,12 +427,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LeKiwi - Low-Cost Mobile Manipulator",
+                "homepage": null,
                 "id": 927393896,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-05T09:25:59Z",
+                "open_issues": 12,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1393
+                "stars": 1394,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -330,12 +448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LeRobotDepot is a community-driven repository listing open-source hardware, components, and 3D-printable projects compatible with the LeRobot library. It helps users easily discover, build, and contribute to affordable, accessible robotics solutions powered by state-of-the-art AI.",
+                "homepage": null,
                 "id": 950867682,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-09T13:26:04Z",
+                "open_issues": 18,
                 "owner": "maximilienroberti",
                 "repo": "lerobotdepot",
-                "stars": 237
+                "stars": 238,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -346,12 +469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and Accurate Forward and Inverse Kinematics Examples for the Lerobot SO100 ARM",
+                "homepage": null,
                 "id": 916021992,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2025-08-16T07:07:30Z",
+                "open_issues": 0,
                 "owner": "box2ai-robotics",
                 "repo": "lerobot-kinematics",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -362,12 +490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A human-scale robotic arm compatible with Lerobot, based on SO100",
+                "homepage": null,
                 "id": 933538774,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-08T23:42:58Z",
+                "open_issues": 5,
                 "owner": "nomorewzx",
                 "repo": "PingTi-Arm",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -378,12 +511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Weilan Alpha Dog with So 101 arm",
+                "homepage": null,
                 "id": 1122068985,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-28T02:37:32Z",
+                "open_issues": 0,
                 "owner": "wuxiaoqiang12",
                 "repo": "LeDog",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             }
@@ -401,12 +539,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 955949684,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-09-28T13:19:34Z",
+                "open_issues": 12,
                 "owner": "jeongeun980906",
                 "repo": "lerobot-mujoco-tutorial",
-                "stars": 610
+                "stars": 610,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -417,12 +560,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All the source code for \"Robot Learning: A Tutorial\". Get involved to be featured in the next iteration!",
+                "homepage": "http://arxiv.org/abs/2510.12403",
                 "id": 1035347985,
                 "language": "TeX",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-09T15:51:15Z",
+                "open_issues": 16,
                 "owner": "fracapuano",
                 "repo": "robot-learning-tutorial",
-                "stars": 571
+                "stars": 571,
+                "topics": [
+                  "lerobot",
+                  "machine-learning",
+                  "open-source",
+                  "robot-learning",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -433,12 +587,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LeRobot sim2real code. Train in fast simulation and deploy visual policies zero shot to the real world",
+                "homepage": null,
                 "id": 943548421,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-15T05:54:16Z",
+                "open_issues": 12,
                 "owner": "StoneT2000",
                 "repo": "lerobot-sim2real",
-                "stars": 397
+                "stars": 397,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -449,12 +608,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CRISP – Compliant ROS2 Controllers for Learning-Based Manipulation Policies",
+                "homepage": "https://learnsyslab.github.io/crisp_controllers/",
                 "id": 976638544,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-16T14:12:48Z",
+                "open_issues": 8,
                 "owner": "learnsyslab",
                 "repo": "crisp_controllers",
-                "stars": 233
+                "stars": 233,
+                "topics": [
+                  "cartesian-impedence-control",
+                  "cpp",
+                  "operational-space-control",
+                  "python3",
+                  "robot-manipulation",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -465,12 +636,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS 2 Package for LeRobot SO-ARM101",
+                "homepage": null,
                 "id": 1004844860,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-09T19:44:39Z",
+                "open_issues": 5,
                 "owner": "Pavankv92",
                 "repo": "lerobot_ws",
-                "stars": 170
+                "stars": 170,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -481,12 +657,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "这是一个帮助新手通过 LeRobot 项目入门具身智能的中文教程",
+                "homepage": null,
                 "id": 912276643,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-01-17T05:14:03Z",
+                "open_issues": 1,
                 "owner": "CSCSX",
                 "repo": "LeRobotTutorial-CN",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -497,12 +678,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A course on robotics by Hugging Face using LeRobot.",
+                "homepage": null,
                 "id": 1057785602,
                 "language": "MDX",
+                "license": null,
                 "last_commit": "2026-05-26T10:34:06Z",
+                "open_issues": 24,
                 "owner": "huggingface",
                 "repo": "robotics-course",
-                "stars": 149
+                "stars": 149,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -513,12 +699,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROBOTIS Physical AI Tools: Physical AI Development Interface with LeRobot and ROS 2",
+                "homepage": "https://ai.robotis.com/",
                 "id": 968528285,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-26T08:37:24Z",
+                "open_issues": 0,
                 "owner": "ROBOTIS-GIT",
                 "repo": "physical_ai_tools",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "ai",
+                  "lerobot",
+                  "physical-ai",
+                  "robotis",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -529,12 +726,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web application for visualizing robotics datasets in LeRobot format",
+                "homepage": "https://huggingface.co/spaces/lerobot/visualize_dataset",
                 "id": 1050025688,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-24T09:11:35Z",
+                "open_issues": 11,
                 "owner": "huggingface",
                 "repo": "lerobot-dataset-visualizer",
-                "stars": 124
+                "stars": 125,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -545,12 +747,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight toolkit for quantitatively scoring LeRobot episodes.",
+                "homepage": null,
                 "id": 1003449858,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-13T06:12:57Z",
+                "open_issues": 6,
                 "owner": "RoboticsData",
                 "repo": "score_lerobot_episodes",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "ai",
+                  "awesome",
+                  "computer-vision",
+                  "deeplearning",
+                  "gemini",
+                  "huggingface",
+                  "lerobot",
+                  "machine-learning",
+                  "machinelearning",
+                  "opencv",
+                  "robot",
+                  "robotics",
+                  "robots",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -561,12 +783,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample Environment for the LeRobot SO-101 Robot in Isaac Lab to collect demonstrations in a simulation",
+                "homepage": null,
                 "id": 1068564361,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-30T19:29:54Z",
+                "open_issues": 2,
                 "owner": "liorbenhorin",
                 "repo": "lerobot_so101_teleop",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -577,12 +804,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Guide and tutorial to run the HILSerl implementation of LeRobot",
+                "homepage": null,
                 "id": 969996381,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-09-29T09:34:59Z",
+                "open_issues": 3,
                 "owner": "michel-aractingi",
                 "repo": "lerobot-hilserl-guide",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -593,12 +825,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "interact with your robot in JS, inspired by LeRobot",
+                "homepage": "https://huggingface.co/spaces/NERDDISCO/LeRobot.js",
                 "id": 1002178952,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-14T10:31:25Z",
+                "open_issues": 3,
                 "owner": "TimPietrusky",
                 "repo": "lerobot.js",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "lerobot",
+                  "robot-arm",
+                  "robotics",
+                  "so-100",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -609,12 +852,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS 2 bridge for LeRobot mobile base, arm and sensors.",
+                "homepage": "https://github.com/astroyat/lerobot",
                 "id": 986639754,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-16T21:47:34Z",
+                "open_issues": 2,
                 "owner": "astroyat",
                 "repo": "lerobot-ros",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "lekiwi",
+                  "lerobot",
+                  "lidar",
+                  "nav2",
+                  "navigation",
+                  "robotics",
+                  "ros2",
+                  "slam",
+                  "slam-toolbox",
+                  "so100"
+                ]
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -625,12 +884,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A web UI interface on top of lerobot",
+                "homepage": null,
                 "id": 1002206965,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-29T13:03:59Z",
+                "open_issues": 2,
                 "owner": "nicolas-rabault",
                 "repo": "leLab",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -641,12 +905,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LeRobot dataset operations toolkit.",
+                "homepage": null,
                 "id": 1005637247,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-09T21:49:32Z",
+                "open_issues": 0,
                 "owner": "masato-ka",
                 "repo": "lero",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             }
@@ -660,15 +929,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:24:30.524Z",
+    "last_updated": "2026-08-29T04:32:29.341Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🎁 A collection of utilities for LeRobot.",
+      "homepage": null,
       "id": 935190749,
       "language": "Python",
+      "license": "MIT",
       "last_commit": "2026-08-17T16:31:04Z",
+      "open_issues": 4,
       "owner": "Tavish9",
       "repo": "any4lerobot",
-      "stars": 1142
+      "stars": 1142,
+      "topics": [
+        "agibot",
+        "awesome",
+        "lerobot",
+        "libero",
+        "openx",
+        "rlds",
+        "robocasa",
+        "robomind",
+        "robotics",
+        "utils"
+      ]
     },
     "original_repository_sha": "e5f767f39da57be0d3f077ff8935b53803e03395",
     "enhanced_repository": "enhansome/enhansome-any4lerobot",
