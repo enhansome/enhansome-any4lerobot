@@ -63,7 +63,7 @@
                 "open_issues": 322,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7945,
+                "stars": 7948,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -929,7 +929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:32:29.341Z",
+    "last_updated": "2026-08-29T07:33:47.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
