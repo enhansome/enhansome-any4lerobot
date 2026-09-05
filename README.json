@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T03:38:12Z",
-                "open_issues": 857,
+                "last_commit": "2026-09-05T03:38:35Z",
+                "open_issues": 862,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 27197,
+                "stars": 27222,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -39,10 +39,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-24T16:27:13Z",
-                "open_issues": 335,
+                "open_issues": 337,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 13628,
+                "stars": 13642,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -60,10 +60,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-20T21:25:42Z",
-                "open_issues": 330,
+                "open_issues": 332,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 7996,
+                "stars": 8007,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -84,7 +84,7 @@
                 "open_issues": 36,
                 "owner": "SpatialVLA",
                 "repo": "SpatialVLA",
-                "stars": 717,
+                "stars": 718,
                 "topics": [
                   "generalist-robot-policies",
                   "huggingface",
@@ -415,7 +415,7 @@
                 "open_issues": 39,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5484,
+                "stars": 5490,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -735,7 +735,7 @@
                 "open_issues": 11,
                 "owner": "huggingface",
                 "repo": "lerobot-dataset-visualizer",
-                "stars": 126,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -929,7 +929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T05:17:38.749Z",
+    "last_updated": "2026-09-05T05:07:22.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
