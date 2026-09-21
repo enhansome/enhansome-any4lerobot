@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T03:37:56Z",
-                "open_issues": 927,
+                "last_commit": "2026-09-21T03:38:05Z",
+                "open_issues": 932,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 27632,
+                "stars": 27665,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -39,10 +39,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-24T16:27:13Z",
-                "open_issues": 345,
+                "open_issues": 348,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 13899,
+                "stars": 13917,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -63,7 +63,7 @@
                 "open_issues": 332,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8090,
+                "stars": 8100,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -194,7 +194,7 @@
                 "open_issues": 30,
                 "owner": "unitreerobotics",
                 "repo": "unitree_lerobot",
-                "stars": 769,
+                "stars": 770,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -415,7 +415,7 @@
                 "open_issues": 42,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5533,
+                "stars": 5535,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -436,7 +436,7 @@
                 "open_issues": 13,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1427,
+                "stars": 1431,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -548,7 +548,7 @@
                 "open_issues": 12,
                 "owner": "jeongeun980906",
                 "repo": "lerobot-mujoco-tutorial",
-                "stars": 625,
+                "stars": 626,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -596,7 +596,7 @@
                 "open_issues": 12,
                 "owner": "StoneT2000",
                 "repo": "lerobot-sim2real",
-                "stars": 405,
+                "stars": 406,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -687,7 +687,7 @@
                 "open_issues": 24,
                 "owner": "huggingface",
                 "repo": "robotics-course",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -792,7 +792,7 @@
                 "open_issues": 2,
                 "owner": "liorbenhorin",
                 "repo": "lerobot_so101_teleop",
-                "stars": 66,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -929,7 +929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T05:34:35.663Z",
+    "last_updated": "2026-09-21T05:43:40.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
@@ -941,7 +941,7 @@
       "open_issues": 4,
       "owner": "Tavish9",
       "repo": "any4lerobot",
-      "stars": 1158,
+      "stars": 1159,
       "topics": [
         "agibot",
         "awesome",
