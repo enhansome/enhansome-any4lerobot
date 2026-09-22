@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T03:38:05Z",
-                "open_issues": 932,
+                "last_commit": "2026-09-22T03:03:41Z",
+                "open_issues": 942,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 27665,
+                "stars": 27697,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -42,7 +42,7 @@
                 "open_issues": 348,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 13917,
+                "stars": 13941,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -63,7 +63,7 @@
                 "open_issues": 332,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8100,
+                "stars": 8108,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -215,7 +215,7 @@
                 "open_issues": 5,
                 "owner": "MINT-SJTU",
                 "repo": "LeRobot-Anything-U-Arm",
-                "stars": 322,
+                "stars": 323,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -415,7 +415,7 @@
                 "open_issues": 42,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5535,
+                "stars": 5538,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -436,7 +436,7 @@
                 "open_issues": 13,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1431,
+                "stars": 1432,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -548,7 +548,7 @@
                 "open_issues": 12,
                 "owner": "jeongeun980906",
                 "repo": "lerobot-mujoco-tutorial",
-                "stars": 626,
+                "stars": 627,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -569,7 +569,7 @@
                 "open_issues": 17,
                 "owner": "fracapuano",
                 "repo": "robot-learning-tutorial",
-                "stars": 578,
+                "stars": 580,
                 "topics": [
                   "lerobot",
                   "machine-learning",
@@ -652,6 +652,27 @@
             },
             {
               "node_type": "item",
+              "title": "Robotics Course",
+              "description": "A course on robotics by Hugging Face using LeRobot",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A course on robotics by Hugging Face using LeRobot.",
+                "homepage": null,
+                "id": 1057785602,
+                "language": "MDX",
+                "license": null,
+                "last_commit": "2026-09-18T14:17:48Z",
+                "open_issues": 25,
+                "owner": "huggingface",
+                "repo": "robotics-course",
+                "stars": 155,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
+            },
+            {
+              "node_type": "item",
               "title": "LeRobotTutorial-CN",
               "description": "a tutorial for LeRobot in Chinese",
               "children": [],
@@ -667,27 +688,6 @@
                 "owner": "CSCSX",
                 "repo": "LeRobotTutorial-CN",
                 "stars": 155,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:24:30.524Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Robotics Course",
-              "description": "A course on robotics by Hugging Face using LeRobot",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A course on robotics by Hugging Face using LeRobot.",
-                "homepage": null,
-                "id": 1057785602,
-                "language": "MDX",
-                "license": null,
-                "last_commit": "2026-09-18T14:17:48Z",
-                "open_issues": 24,
-                "owner": "huggingface",
-                "repo": "robotics-course",
-                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -732,7 +732,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-19T01:43:38Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "huggingface",
                 "repo": "lerobot-dataset-visualizer",
                 "stars": 131,
@@ -929,7 +929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T05:43:40.744Z",
+    "last_updated": "2026-09-22T05:41:11.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
