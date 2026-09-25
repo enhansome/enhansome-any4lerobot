@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T03:42:34Z",
-                "open_issues": 948,
+                "last_commit": "2026-09-25T03:40:27Z",
+                "open_issues": 954,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 27741,
+                "stars": 27765,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -42,7 +42,7 @@
                 "open_issues": 348,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 13975,
+                "stars": 13994,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -63,7 +63,7 @@
                 "open_issues": 337,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8121,
+                "stars": 8126,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -411,11 +411,11 @@
                 "id": 972979883,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T19:32:08Z",
+                "last_commit": "2026-09-24T19:03:33Z",
                 "open_issues": 41,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5547,
+                "stars": 5551,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -436,7 +436,7 @@
                 "open_issues": 13,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1437,
+                "stars": 1438,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -929,7 +929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T05:42:10.884Z",
+    "last_updated": "2026-09-25T05:39:19.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
@@ -941,7 +941,7 @@
       "open_issues": 4,
       "owner": "Tavish9",
       "repo": "any4lerobot",
-      "stars": 1160,
+      "stars": 1162,
       "topics": [
         "agibot",
         "awesome",
