@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T18:19:22Z",
-                "open_issues": 975,
+                "last_commit": "2026-10-03T03:50:16Z",
+                "open_issues": 976,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 27904,
+                "stars": 27914,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -39,10 +39,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-24T16:27:13Z",
-                "open_issues": 351,
+                "open_issues": 352,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14073,
+                "stars": 14079,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -63,7 +63,7 @@
                 "open_issues": 338,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8151,
+                "stars": 8152,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -112,7 +112,7 @@
                 "open_issues": 7,
                 "owner": "EO-Robotics",
                 "repo": "EO1",
-                "stars": 293,
+                "stars": 294,
                 "topics": [
                   "embodied-ai",
                   "generalist-robot-policy",
@@ -194,7 +194,7 @@
                 "open_issues": 30,
                 "owner": "unitreerobotics",
                 "repo": "unitree_lerobot",
-                "stars": 772,
+                "stars": 771,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -415,7 +415,7 @@
                 "open_issues": 41,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5565,
+                "stars": 5564,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -453,8 +453,8 @@
                 "id": 950867682,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-01T17:32:59Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-02T10:12:26Z",
+                "open_issues": 21,
                 "owner": "maximilienroberti",
                 "repo": "lerobotdepot",
                 "stars": 249,
@@ -548,7 +548,7 @@
                 "open_issues": 12,
                 "owner": "jeongeun980906",
                 "repo": "lerobot-mujoco-tutorial",
-                "stars": 635,
+                "stars": 634,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -569,7 +569,7 @@
                 "open_issues": 17,
                 "owner": "fracapuano",
                 "repo": "robot-learning-tutorial",
-                "stars": 586,
+                "stars": 587,
                 "topics": [
                   "lerobot",
                   "machine-learning",
@@ -614,7 +614,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-08-16T14:12:48Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "learnsyslab",
                 "repo": "crisp_controllers",
                 "stars": 238,
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:29:50.539Z",
+    "last_updated": "2026-10-03T04:32:22.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
@@ -983,7 +983,7 @@
       "open_issues": 4,
       "owner": "Tavish9",
       "repo": "any4lerobot",
-      "stars": 1166,
+      "stars": 1167,
       "topics": [
         "agibot",
         "awesome",
