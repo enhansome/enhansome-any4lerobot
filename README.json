@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T15:14:59Z",
+                "last_commit": "2026-10-06T10:23:09Z",
                 "open_issues": 988,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 27961,
+                "stars": 27963,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -63,7 +63,7 @@
                 "open_issues": 339,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8162,
+                "stars": 8161,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T07:03:14.303Z",
+    "last_updated": "2026-10-06T10:25:07.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
