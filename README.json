@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:23:09Z",
-                "open_issues": 988,
+                "last_commit": "2026-10-06T22:43:49Z",
+                "open_issues": 991,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 27963,
+                "stars": 27973,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -42,7 +42,7 @@
                 "open_issues": 354,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14098,
+                "stars": 14112,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -194,7 +194,7 @@
                 "open_issues": 31,
                 "owner": "unitreerobotics",
                 "repo": "unitree_lerobot",
-                "stars": 771,
+                "stars": 772,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -411,11 +411,11 @@
                 "id": 972979883,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T19:03:33Z",
-                "open_issues": 41,
+                "last_commit": "2026-10-06T22:14:18Z",
+                "open_issues": 39,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5567,
+                "stars": 5569,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -548,7 +548,7 @@
                 "open_issues": 12,
                 "owner": "jeongeun980906",
                 "repo": "lerobot-mujoco-tutorial",
-                "stars": 636,
+                "stars": 638,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -645,7 +645,7 @@
                 "open_issues": 5,
                 "owner": "Pavankv92",
                 "repo": "lerobot_ws",
-                "stars": 172,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -931,8 +931,8 @@
                 "id": 1365250009,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T15:11:44Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-07T06:44:29Z",
+                "open_issues": 1,
                 "owner": "noteflowai",
                 "repo": "robot-reel",
                 "stars": 6,
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:25:07.351Z",
+    "last_updated": "2026-10-07T06:44:45.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
@@ -983,7 +983,7 @@
       "open_issues": 4,
       "owner": "Tavish9",
       "repo": "any4lerobot",
-      "stars": 1167,
+      "stars": 1168,
       "topics": [
         "agibot",
         "awesome",
