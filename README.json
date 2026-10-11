@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T16:34:50Z",
-                "open_issues": 973,
+                "last_commit": "2026-10-10T11:53:03Z",
+                "open_issues": 986,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28050,
+                "stars": 28067,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -39,10 +39,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-24T16:27:13Z",
-                "open_issues": 358,
+                "open_issues": 359,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14155,
+                "stars": 14164,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -63,7 +63,7 @@
                 "open_issues": 338,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8183,
+                "stars": 8189,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -415,7 +415,7 @@
                 "open_issues": 39,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5577,
+                "stars": 5581,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:33:54.040Z",
+    "last_updated": "2026-10-11T06:40:57.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
