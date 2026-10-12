@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T11:53:03Z",
-                "open_issues": 986,
+                "last_commit": "2026-10-11T19:14:59Z",
+                "open_issues": 995,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28067,
+                "stars": 28090,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -42,7 +42,7 @@
                 "open_issues": 359,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14164,
+                "stars": 14177,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -63,7 +63,7 @@
                 "open_issues": 338,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8189,
+                "stars": 8195,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -257,7 +257,7 @@
                 "open_issues": 6,
                 "owner": "dora-rs",
                 "repo": "dora-lerobot",
-                "stars": 135,
+                "stars": 136,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -415,7 +415,7 @@
                 "open_issues": 39,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5581,
+                "stars": 5582,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -436,7 +436,7 @@
                 "open_issues": 13,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1458,
+                "stars": 1459,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -666,7 +666,7 @@
                 "open_issues": 27,
                 "owner": "huggingface",
                 "repo": "robotics-course",
-                "stars": 162,
+                "stars": 164,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -732,7 +732,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T10:40:00Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "huggingface",
                 "repo": "lerobot-dataset-visualizer",
                 "stars": 133,
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T06:40:57.925Z",
+    "last_updated": "2026-10-12T06:49:35.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
