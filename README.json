@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T03:43:38Z",
-                "open_issues": 1013,
+                "last_commit": "2026-10-16T03:43:53Z",
+                "open_issues": 1016,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28179,
+                "stars": 28208,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -42,7 +42,7 @@
                 "open_issues": 360,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14237,
+                "stars": 14260,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -59,11 +59,11 @@
                 "id": 946829547,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T22:35:38Z",
+                "last_commit": "2026-10-15T21:46:25Z",
                 "open_issues": 339,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8203,
+                "stars": 8210,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -84,7 +84,7 @@
                 "open_issues": 36,
                 "owner": "SpatialVLA",
                 "repo": "SpatialVLA",
-                "stars": 729,
+                "stars": 730,
                 "topics": [
                   "generalist-robot-policies",
                   "huggingface",
@@ -215,7 +215,7 @@
                 "open_issues": 5,
                 "owner": "MINT-SJTU",
                 "repo": "LeRobot-Anything-U-Arm",
-                "stars": 331,
+                "stars": 332,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -415,7 +415,7 @@
                 "open_issues": 39,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5595,
+                "stars": 5603,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -436,7 +436,7 @@
                 "open_issues": 13,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1464,
+                "stars": 1466,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -569,7 +569,7 @@
                 "open_issues": 17,
                 "owner": "fracapuano",
                 "repo": "robot-learning-tutorial",
-                "stars": 589,
+                "stars": 590,
                 "topics": [
                   "lerobot",
                   "machine-learning",
@@ -614,10 +614,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-08-16T14:12:48Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "learnsyslab",
                 "repo": "crisp_controllers",
-                "stars": 238,
+                "stars": 239,
                 "topics": [
                   "cartesian-impedence-control",
                   "cpp",
@@ -935,7 +935,7 @@
                 "open_issues": 0,
                 "owner": "noteflowai",
                 "repo": "robot-reel",
-                "stars": 6,
+                "stars": 7,
                 "topics": [
                   "blender",
                   "digital-twin",
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T05:26:00.369Z",
+    "last_updated": "2026-10-16T05:18:47.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
@@ -983,7 +983,7 @@
       "open_issues": 4,
       "owner": "Tavish9",
       "repo": "any4lerobot",
-      "stars": 1170,
+      "stars": 1171,
       "topics": [
         "agibot",
         "awesome",
