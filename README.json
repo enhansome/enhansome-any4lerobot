@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T03:42:57Z",
-                "open_issues": 1018,
+                "last_commit": "2026-10-18T03:42:47Z",
+                "open_issues": 1027,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28233,
+                "stars": 28258,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -39,10 +39,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-24T16:27:13Z",
-                "open_issues": 361,
+                "open_issues": 363,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14267,
+                "stars": 14278,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -63,7 +63,7 @@
                 "open_issues": 341,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8217,
+                "stars": 8223,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -84,7 +84,7 @@
                 "open_issues": 36,
                 "owner": "SpatialVLA",
                 "repo": "SpatialVLA",
-                "stars": 730,
+                "stars": 731,
                 "topics": [
                   "generalist-robot-policies",
                   "huggingface",
@@ -112,7 +112,7 @@
                 "open_issues": 7,
                 "owner": "EO-Robotics",
                 "repo": "EO1",
-                "stars": 293,
+                "stars": 292,
                 "topics": [
                   "embodied-ai",
                   "generalist-robot-policy",
@@ -194,7 +194,7 @@
                 "open_issues": 31,
                 "owner": "unitreerobotics",
                 "repo": "unitree_lerobot",
-                "stars": 778,
+                "stars": 779,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -415,7 +415,7 @@
                 "open_issues": 39,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5607,
+                "stars": 5610,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -436,7 +436,7 @@
                 "open_issues": 13,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1467,
+                "stars": 1469,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -548,7 +548,7 @@
                 "open_issues": 12,
                 "owner": "jeongeun980906",
                 "repo": "lerobot-mujoco-tutorial",
-                "stars": 643,
+                "stars": 645,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -569,7 +569,7 @@
                 "open_issues": 17,
                 "owner": "fracapuano",
                 "repo": "robot-learning-tutorial",
-                "stars": 590,
+                "stars": 591,
                 "topics": [
                   "lerobot",
                   "machine-learning",
@@ -735,7 +735,7 @@
                 "open_issues": 13,
                 "owner": "huggingface",
                 "repo": "lerobot-dataset-visualizer",
-                "stars": 133,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T05:13:44.532Z",
+    "last_updated": "2026-10-18T05:17:52.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
