@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T03:43:36Z",
-                "open_issues": 1031,
+                "last_commit": "2026-10-20T03:43:37Z",
+                "open_issues": 1034,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28279,
+                "stars": 28305,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -42,7 +42,7 @@
                 "open_issues": 363,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14293,
+                "stars": 14306,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -60,10 +60,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T21:46:25Z",
-                "open_issues": 341,
+                "open_issues": 342,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8224,
+                "stars": 8230,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -84,7 +84,7 @@
                 "open_issues": 36,
                 "owner": "SpatialVLA",
                 "repo": "SpatialVLA",
-                "stars": 731,
+                "stars": 732,
                 "topics": [
                   "generalist-robot-policies",
                   "huggingface",
@@ -415,7 +415,7 @@
                 "open_issues": 39,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5612,
+                "stars": 5614,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -436,7 +436,7 @@
                 "open_issues": 13,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1470,
+                "stars": 1471,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -453,7 +453,7 @@
                 "id": 950867682,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-09T10:49:54Z",
+                "last_commit": "2026-10-19T18:14:51Z",
                 "open_issues": 21,
                 "owner": "maximilienroberti",
                 "repo": "lerobotdepot",
@@ -735,7 +735,7 @@
                 "open_issues": 13,
                 "owner": "huggingface",
                 "repo": "lerobot-dataset-visualizer",
-                "stars": 134,
+                "stars": 135,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T05:32:29.393Z",
+    "last_updated": "2026-10-20T05:35:11.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
