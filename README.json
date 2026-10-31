@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T03:37:23Z",
-                "open_issues": 886,
+                "last_commit": "2026-10-31T03:31:38Z",
+                "open_issues": 862,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28584,
+                "stars": 28602,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -39,10 +39,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-24T16:27:13Z",
-                "open_issues": 366,
+                "open_issues": 368,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14467,
+                "stars": 14478,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -63,7 +63,7 @@
                 "open_issues": 345,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8292,
+                "stars": 8295,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -194,7 +194,7 @@
                 "open_issues": 32,
                 "owner": "unitreerobotics",
                 "repo": "unitree_lerobot",
-                "stars": 784,
+                "stars": 785,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -212,7 +212,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-02T01:24:09Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "MINT-SJTU",
                 "repo": "LeRobot-Anything-U-Arm",
                 "stars": 333,
@@ -415,7 +415,7 @@
                 "open_issues": 39,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5648,
+                "stars": 5649,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -436,7 +436,7 @@
                 "open_issues": 13,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1495,
+                "stars": 1499,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -569,7 +569,7 @@
                 "open_issues": 17,
                 "owner": "fracapuano",
                 "repo": "robot-learning-tutorial",
-                "stars": 594,
+                "stars": 595,
                 "topics": [
                   "lerobot",
                   "machine-learning",
@@ -687,7 +687,7 @@
                 "open_issues": 1,
                 "owner": "CSCSX",
                 "repo": "LeRobotTutorial-CN",
-                "stars": 155,
+                "stars": 156,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -921,6 +921,27 @@
             },
             {
               "node_type": "item",
+              "title": "lerobot-jetson",
+              "description": "Docker image with CUDA PyTorch, torchcodec and torchvision built from source for LeRobot on NVIDIA Jetson Orin (JetPack 6)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Docker image for running LeRobot on NVIDIA Jetson (Orin, JetPack 6.2)",
+                "homepage": "https://shissorobotics.com",
+                "id": 1330971829,
+                "language": "Dockerfile",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-29T07:25:35Z",
+                "open_issues": 2,
+                "owner": "ravediamond",
+                "repo": "lerobot-jetson",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-10-31T06:30:23.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "Robot Reel",
               "description": "Replay a LeRobotDataset episode (v3.0/v2.x, Hub or local) offline with every camera on one clock and commanded vs. measured joints, pinned to source hashes",
               "children": [],
@@ -985,6 +1006,27 @@
                 ]
               },
               "first_seen": "2026-10-30T06:40:13.545Z"
+            },
+            {
+              "node_type": "item",
+              "title": "paper-vs-hardware",
+              "description": "robot-learning papers re-tested with LeRobot on an SO-101 + Jetson Orin NX, each with the bar set before the run, the verdict and code to reproduce it",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code, pinned data and checkpoints to reproduce each paper-vs-hardware post (SO-101 + Jetson Orin NX)",
+                "homepage": "https://shissorobotics.com",
+                "id": 1433985836,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-30T19:12:00Z",
+                "open_issues": 0,
+                "owner": "ravediamond",
+                "repo": "paper-vs-hardware",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-31T06:30:23.916Z"
             }
           ],
           "description": null,
@@ -996,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T06:40:13.545Z",
+    "last_updated": "2026-10-31T06:30:23.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
@@ -1004,8 +1046,8 @@
       "id": 935190749,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-29T18:24:23Z",
-      "open_issues": 5,
+      "last_commit": "2026-10-30T19:52:27Z",
+      "open_issues": 4,
       "owner": "Tavish9",
       "repo": "any4lerobot",
       "stars": 1170,
@@ -1022,7 +1064,7 @@
         "utils"
       ]
     },
-    "original_repository_sha": "46d8df7fd0ff12e72f76debec067256b5561eb4b",
+    "original_repository_sha": "7879fa78282fdac5c5394fda5864132760084731",
     "enhanced_repository": "enhansome/enhansome-any4lerobot",
     "enhanced_repository_description": null,
     "title": "Awesome any4lerobot with stars"
