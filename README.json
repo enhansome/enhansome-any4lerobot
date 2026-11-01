@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T03:31:38Z",
-                "open_issues": 862,
+                "last_commit": "2026-11-01T03:32:29Z",
+                "open_issues": 877,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28602,
+                "stars": 28616,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -39,10 +39,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-24T16:27:13Z",
-                "open_issues": 368,
+                "open_issues": 370,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14478,
+                "stars": 14489,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -63,7 +63,7 @@
                 "open_issues": 345,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8295,
+                "stars": 8296,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -415,7 +415,7 @@
                 "open_issues": 39,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5649,
+                "stars": 5657,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -436,7 +436,7 @@
                 "open_issues": 13,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1499,
+                "stars": 1502,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -548,7 +548,7 @@
                 "open_issues": 12,
                 "owner": "jeongeun980906",
                 "repo": "lerobot-mujoco-tutorial",
-                "stars": 652,
+                "stars": 653,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -994,11 +994,11 @@
                 "id": 1437504204,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-29T15:18:04Z",
+                "last_commit": "2026-10-31T15:19:11Z",
                 "open_issues": 0,
                 "owner": "fport",
                 "repo": "so101-calibrator",
-                "stars": 1,
+                "stars": 2,
                 "topics": [
                   "huggingface",
                   "lerobot",
@@ -1019,7 +1019,7 @@
                 "id": 1433985836,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T19:12:00Z",
+                "last_commit": "2026-11-01T06:15:20Z",
                 "open_issues": 0,
                 "owner": "ravediamond",
                 "repo": "paper-vs-hardware",
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T06:30:23.916Z",
+    "last_updated": "2026-11-01T07:01:38.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
