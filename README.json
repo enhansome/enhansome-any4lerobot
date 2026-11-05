@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T03:29:23Z",
-                "open_issues": 896,
+                "last_commit": "2026-11-05T03:29:35Z",
+                "open_issues": 906,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28673,
+                "stars": 28692,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -42,7 +42,7 @@
                 "open_issues": 370,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14526,
+                "stars": 14544,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -59,11 +59,11 @@
                 "id": 946829547,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T23:46:21Z",
+                "last_commit": "2026-11-04T23:11:51Z",
                 "open_issues": 346,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8312,
+                "stars": 8319,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -84,7 +84,7 @@
                 "open_issues": 37,
                 "owner": "SpatialVLA",
                 "repo": "SpatialVLA",
-                "stars": 734,
+                "stars": 736,
                 "topics": [
                   "generalist-robot-policies",
                   "huggingface",
@@ -112,7 +112,7 @@
                 "open_issues": 7,
                 "owner": "EO-Robotics",
                 "repo": "EO1",
-                "stars": 292,
+                "stars": 289,
                 "topics": [
                   "embodied-ai",
                   "generalist-robot-policy",
@@ -415,7 +415,7 @@
                 "open_issues": 39,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5702,
+                "stars": 5724,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -436,7 +436,7 @@
                 "open_issues": 13,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1507,
+                "stars": 1508,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -457,7 +457,7 @@
                 "open_issues": 24,
                 "owner": "maximilienroberti",
                 "repo": "lerobotdepot",
-                "stars": 256,
+                "stars": 257,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -617,7 +617,7 @@
                 "open_issues": 10,
                 "owner": "learnsyslab",
                 "repo": "crisp_controllers",
-                "stars": 242,
+                "stars": 243,
                 "topics": [
                   "cartesian-impedence-control",
                   "cpp",
@@ -952,7 +952,7 @@
                 "id": 1365250009,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T15:40:03Z",
+                "last_commit": "2026-11-05T04:36:50Z",
                 "open_issues": 0,
                 "owner": "noteflowai",
                 "repo": "robot-reel",
@@ -1019,7 +1019,7 @@
                 "id": 1433985836,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T22:21:18Z",
+                "last_commit": "2026-11-05T01:05:34Z",
                 "open_issues": 0,
                 "owner": "ravediamond",
                 "repo": "paper-vs-hardware",
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T07:07:24.938Z",
+    "last_updated": "2026-11-05T07:36:22.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
@@ -1047,10 +1047,10 @@
       "language": "Python",
       "license": "MIT",
       "last_commit": "2026-10-30T19:52:27Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "Tavish9",
       "repo": "any4lerobot",
-      "stars": 1170,
+      "stars": 1171,
       "topics": [
         "agibot",
         "awesome",
