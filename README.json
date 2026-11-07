@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T03:30:33Z",
-                "open_issues": 903,
+                "last_commit": "2026-11-07T03:29:50Z",
+                "open_issues": 912,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28714,
+                "stars": 28726,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -39,10 +39,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-24T16:27:13Z",
-                "open_issues": 370,
+                "open_issues": 375,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14555,
+                "stars": 14565,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -59,11 +59,11 @@
                 "id": 946829547,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T23:11:51Z",
-                "open_issues": 347,
+                "last_commit": "2026-11-07T02:28:57Z",
+                "open_issues": 344,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8323,
+                "stars": 8326,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -112,7 +112,7 @@
                 "open_issues": 7,
                 "owner": "EO-Robotics",
                 "repo": "EO1",
-                "stars": 290,
+                "stars": 291,
                 "topics": [
                   "embodied-ai",
                   "generalist-robot-policy",
@@ -415,7 +415,7 @@
                 "open_issues": 39,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5730,
+                "stars": 5736,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -436,7 +436,7 @@
                 "open_issues": 13,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1509,
+                "stars": 1508,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -548,7 +548,7 @@
                 "open_issues": 13,
                 "owner": "jeongeun980906",
                 "repo": "lerobot-mujoco-tutorial",
-                "stars": 652,
+                "stars": 653,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -569,7 +569,7 @@
                 "open_issues": 17,
                 "owner": "fracapuano",
                 "repo": "robot-learning-tutorial",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "lerobot",
                   "machine-learning",
@@ -596,7 +596,7 @@
                 "open_issues": 12,
                 "owner": "StoneT2000",
                 "repo": "lerobot-sim2real",
-                "stars": 416,
+                "stars": 417,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -617,7 +617,7 @@
                 "open_issues": 10,
                 "owner": "learnsyslab",
                 "repo": "crisp_controllers",
-                "stars": 243,
+                "stars": 244,
                 "topics": [
                   "cartesian-impedence-control",
                   "cpp",
@@ -732,7 +732,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-03T16:41:53Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "huggingface",
                 "repo": "lerobot-dataset-visualizer",
                 "stars": 138,
@@ -753,7 +753,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-13T06:12:57Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "RoboticsData",
                 "repo": "score_lerobot_episodes",
                 "stars": 79,
@@ -855,10 +855,10 @@
                 "description": "ROS 2 bridge for LeRobot mobile base, arm and sensors.",
                 "homepage": "https://github.com/astroyat/lerobot",
                 "id": 986639754,
-                "language": null,
+                "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-02-16T21:47:34Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-07T03:03:15Z",
+                "open_issues": 1,
                 "owner": "astroyat",
                 "repo": "lerobot-ros",
                 "stars": 36,
@@ -931,7 +931,7 @@
                 "id": 1330971829,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T07:25:35Z",
+                "last_commit": "2026-11-06T19:25:30Z",
                 "open_issues": 2,
                 "owner": "ravediamond",
                 "repo": "lerobot-jetson",
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T07:31:21.182Z",
+    "last_updated": "2026-11-07T06:44:25.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
@@ -1046,8 +1046,8 @@
       "id": 935190749,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-30T19:52:27Z",
-      "open_issues": 5,
+      "last_commit": "2026-11-06T17:18:26Z",
+      "open_issues": 4,
       "owner": "Tavish9",
       "repo": "any4lerobot",
       "stars": 1170,
@@ -1064,7 +1064,7 @@
         "utils"
       ]
     },
-    "original_repository_sha": "7879fa78282fdac5c5394fda5864132760084731",
+    "original_repository_sha": "0cf7d0996cee385ce39d067950381f29e04c56ca",
     "enhanced_repository": "enhansome/enhansome-any4lerobot",
     "enhanced_repository_description": null,
     "title": "Awesome any4lerobot with stars"
