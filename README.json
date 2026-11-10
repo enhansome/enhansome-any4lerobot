@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T21:13:52Z",
-                "open_issues": 920,
+                "last_commit": "2026-11-10T03:36:30Z",
+                "open_issues": 922,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28767,
+                "stars": 28784,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -42,7 +42,7 @@
                 "open_issues": 376,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14584,
+                "stars": 14600,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -59,11 +59,11 @@
                 "id": 946829547,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T17:27:10Z",
-                "open_issues": 343,
+                "last_commit": "2026-11-10T05:11:55Z",
+                "open_issues": 342,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8333,
+                "stars": 8340,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -84,7 +84,7 @@
                 "open_issues": 37,
                 "owner": "SpatialVLA",
                 "repo": "SpatialVLA",
-                "stars": 737,
+                "stars": 736,
                 "topics": [
                   "generalist-robot-policies",
                   "huggingface",
@@ -194,7 +194,7 @@
                 "open_issues": 33,
                 "owner": "unitreerobotics",
                 "repo": "unitree_lerobot",
-                "stars": 787,
+                "stars": 788,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -215,7 +215,7 @@
                 "open_issues": 5,
                 "owner": "MINT-SJTU",
                 "repo": "LeRobot-Anything-U-Arm",
-                "stars": 335,
+                "stars": 338,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -412,10 +412,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-06T22:14:18Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5756,
+                "stars": 5760,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -433,10 +433,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-05T09:25:59Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1513,
+                "stars": 1514,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -569,7 +569,7 @@
                 "open_issues": 17,
                 "owner": "fracapuano",
                 "repo": "robot-learning-tutorial",
-                "stars": 601,
+                "stars": 602,
                 "topics": [
                   "lerobot",
                   "machine-learning",
@@ -614,7 +614,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-08-16T14:12:48Z",
-                "open_issues": 10,
+                "open_issues": 12,
                 "owner": "learnsyslab",
                 "repo": "crisp_controllers",
                 "stars": 244,
@@ -626,6 +626,27 @@
                   "robot-manipulation",
                   "ros2"
                 ]
+              },
+              "first_seen": "2026-08-28T12:24:30.524Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Robotics Course",
+              "description": "A course on robotics by Hugging Face using LeRobot",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A course on robotics by Hugging Face using LeRobot.",
+                "homepage": null,
+                "id": 1057785602,
+                "language": "MDX",
+                "license": null,
+                "last_commit": "2026-10-27T10:44:34Z",
+                "open_issues": 28,
+                "owner": "huggingface",
+                "repo": "robotics-course",
+                "stars": 174,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
             },
@@ -646,27 +667,6 @@
                 "owner": "Pavankv92",
                 "repo": "lerobot_ws",
                 "stars": 174,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:24:30.524Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Robotics Course",
-              "description": "A course on robotics by Hugging Face using LeRobot",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A course on robotics by Hugging Face using LeRobot.",
-                "homepage": null,
-                "id": 1057785602,
-                "language": "MDX",
-                "license": null,
-                "last_commit": "2026-10-27T10:44:34Z",
-                "open_issues": 28,
-                "owner": "huggingface",
-                "repo": "robotics-course",
-                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -704,7 +704,7 @@
                 "id": 968528285,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T06:32:31Z",
+                "last_commit": "2026-11-09T23:58:23Z",
                 "open_issues": 1,
                 "owner": "ROBOTIS-GIT",
                 "repo": "physical_ai_tools",
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T07:30:52.247Z",
+    "last_updated": "2026-11-10T07:55:07.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
