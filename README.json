@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T03:29:57Z",
-                "open_issues": 936,
+                "last_commit": "2026-11-12T03:31:01Z",
+                "open_issues": 952,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28805,
+                "stars": 28830,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -39,10 +39,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-24T16:27:13Z",
-                "open_issues": 378,
+                "open_issues": 381,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14607,
+                "stars": 14621,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -60,10 +60,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-10T18:35:56Z",
-                "open_issues": 340,
+                "open_issues": 343,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8351,
+                "stars": 8359,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -140,7 +140,7 @@
                 "open_issues": 14,
                 "owner": "Fanqi-Lin",
                 "repo": "OneTwoVLA",
-                "stars": 242,
+                "stars": 243,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -194,7 +194,7 @@
                 "open_issues": 33,
                 "owner": "unitreerobotics",
                 "repo": "unitree_lerobot",
-                "stars": 788,
+                "stars": 790,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -215,7 +215,7 @@
                 "open_issues": 5,
                 "owner": "MINT-SJTU",
                 "repo": "LeRobot-Anything-U-Arm",
-                "stars": 339,
+                "stars": 341,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -415,7 +415,7 @@
                 "open_issues": 40,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5768,
+                "stars": 5776,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -548,7 +548,7 @@
                 "open_issues": 13,
                 "owner": "jeongeun980906",
                 "repo": "lerobot-mujoco-tutorial",
-                "stars": 654,
+                "stars": 655,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -687,7 +687,7 @@
                 "open_issues": 1,
                 "owner": "CSCSX",
                 "repo": "LeRobotTutorial-CN",
-                "stars": 156,
+                "stars": 157,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -1019,7 +1019,7 @@
                 "id": 1433985836,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T07:00:03Z",
+                "last_commit": "2026-11-12T00:34:00Z",
                 "open_issues": 0,
                 "owner": "ravediamond",
                 "repo": "paper-vs-hardware",
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T07:23:59.510Z",
+    "last_updated": "2026-11-12T07:53:05.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
@@ -1050,7 +1050,7 @@
       "open_issues": 4,
       "owner": "Tavish9",
       "repo": "any4lerobot",
-      "stars": 1170,
+      "stars": 1171,
       "topics": [
         "agibot",
         "awesome",
