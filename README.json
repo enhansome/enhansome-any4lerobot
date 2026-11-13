@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T03:31:01Z",
-                "open_issues": 952,
+                "last_commit": "2026-11-13T03:47:11Z",
+                "open_issues": 963,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28830,
+                "stars": 28853,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -42,7 +42,7 @@
                 "open_issues": 381,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14621,
+                "stars": 14632,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -60,10 +60,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-10T18:35:56Z",
-                "open_issues": 343,
+                "open_issues": 344,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8359,
+                "stars": 8368,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -84,7 +84,7 @@
                 "open_issues": 37,
                 "owner": "SpatialVLA",
                 "repo": "SpatialVLA",
-                "stars": 736,
+                "stars": 735,
                 "topics": [
                   "generalist-robot-policies",
                   "huggingface",
@@ -215,7 +215,7 @@
                 "open_issues": 5,
                 "owner": "MINT-SJTU",
                 "repo": "LeRobot-Anything-U-Arm",
-                "stars": 341,
+                "stars": 343,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -415,7 +415,7 @@
                 "open_issues": 40,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5776,
+                "stars": 5786,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -436,7 +436,7 @@
                 "open_issues": 14,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1515,
+                "stars": 1519,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -454,7 +454,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-10-26T16:14:06Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "maximilienroberti",
                 "repo": "lerobotdepot",
                 "stars": 258,
@@ -548,7 +548,7 @@
                 "open_issues": 13,
                 "owner": "jeongeun980906",
                 "repo": "lerobot-mujoco-tutorial",
-                "stars": 655,
+                "stars": 656,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -569,7 +569,7 @@
                 "open_issues": 17,
                 "owner": "fracapuano",
                 "repo": "robot-learning-tutorial",
-                "stars": 602,
+                "stars": 604,
                 "topics": [
                   "lerobot",
                   "machine-learning",
@@ -617,7 +617,7 @@
                 "open_issues": 12,
                 "owner": "learnsyslab",
                 "repo": "crisp_controllers",
-                "stars": 244,
+                "stars": 245,
                 "topics": [
                   "cartesian-impedence-control",
                   "cpp",
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T07:53:05.543Z",
+    "last_updated": "2026-11-13T07:29:52.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
