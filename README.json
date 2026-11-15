@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T03:31:37Z",
-                "open_issues": 966,
+                "last_commit": "2026-11-15T03:31:00Z",
+                "open_issues": 969,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28871,
+                "stars": 28883,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -42,7 +42,7 @@
                 "open_issues": 381,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14644,
+                "stars": 14649,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -63,7 +63,7 @@
                 "open_issues": 344,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8371,
+                "stars": 8374,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -84,7 +84,7 @@
                 "open_issues": 37,
                 "owner": "SpatialVLA",
                 "repo": "SpatialVLA",
-                "stars": 735,
+                "stars": 736,
                 "topics": [
                   "generalist-robot-policies",
                   "huggingface",
@@ -411,11 +411,11 @@
                 "id": 972979883,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T22:14:18Z",
-                "open_issues": 40,
+                "last_commit": "2026-11-15T06:59:02Z",
+                "open_issues": 42,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5792,
+                "stars": 5801,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -569,7 +569,7 @@
                 "open_issues": 17,
                 "owner": "fracapuano",
                 "repo": "robot-learning-tutorial",
-                "stars": 604,
+                "stars": 606,
                 "topics": [
                   "lerobot",
                   "machine-learning",
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T07:15:01.798Z",
+    "last_updated": "2026-11-15T07:24:24.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
