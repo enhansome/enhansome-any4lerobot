@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-15T03:31:00Z",
-                "open_issues": 969,
+                "open_issues": 973,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28883,
+                "stars": 28899,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -42,7 +42,7 @@
                 "open_issues": 381,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14649,
+                "stars": 14658,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -63,7 +63,7 @@
                 "open_issues": 344,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8374,
+                "stars": 8379,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -411,11 +411,11 @@
                 "id": 972979883,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T06:59:02Z",
+                "last_commit": "2026-11-16T06:29:42Z",
                 "open_issues": 42,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5801,
+                "stars": 5811,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -478,7 +478,7 @@
                 "open_issues": 0,
                 "owner": "box2ai-robotics",
                 "repo": "lerobot-kinematics",
-                "stars": 130,
+                "stars": 131,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -1019,7 +1019,7 @@
                 "id": 1433985836,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T00:34:00Z",
+                "last_commit": "2026-11-16T03:34:31Z",
                 "open_issues": 0,
                 "owner": "ravediamond",
                 "repo": "paper-vs-hardware",
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:24:24.970Z",
+    "last_updated": "2026-11-16T07:30:04.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
