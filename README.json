@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T03:30:46Z",
-                "open_issues": 975,
+                "last_commit": "2026-11-18T03:30:57Z",
+                "open_issues": 984,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28919,
+                "stars": 28954,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -42,7 +42,7 @@
                 "open_issues": 381,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14677,
+                "stars": 14691,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -59,11 +59,11 @@
                 "id": 946829547,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T18:35:56Z",
-                "open_issues": 345,
+                "last_commit": "2026-11-17T22:53:19Z",
+                "open_issues": 344,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8382,
+                "stars": 8390,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -415,7 +415,7 @@
                 "open_issues": 42,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5819,
+                "stars": 5826,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -617,7 +617,7 @@
                 "open_issues": 12,
                 "owner": "learnsyslab",
                 "repo": "crisp_controllers",
-                "stars": 245,
+                "stars": 246,
                 "topics": [
                   "cartesian-impedence-control",
                   "cpp",
@@ -645,7 +645,7 @@
                 "open_issues": 29,
                 "owner": "huggingface",
                 "repo": "robotics-course",
-                "stars": 175,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -792,7 +792,7 @@
                 "open_issues": 2,
                 "owner": "liorbenhorin",
                 "repo": "lerobot_so101_teleop",
-                "stars": 67,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T08:42:12.216Z",
+    "last_updated": "2026-11-18T08:06:05.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
@@ -1050,7 +1050,7 @@
       "open_issues": 4,
       "owner": "Tavish9",
       "repo": "any4lerobot",
-      "stars": 1171,
+      "stars": 1172,
       "topics": [
         "agibot",
         "awesome",
