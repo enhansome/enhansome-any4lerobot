@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T03:31:19Z",
-                "open_issues": 992,
+                "last_commit": "2026-11-21T03:31:23Z",
+                "open_issues": 990,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28994,
+                "stars": 29008,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -42,7 +42,7 @@
                 "open_issues": 382,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14713,
+                "stars": 14720,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -215,7 +215,7 @@
                 "open_issues": 5,
                 "owner": "MINT-SJTU",
                 "repo": "LeRobot-Anything-U-Arm",
-                "stars": 344,
+                "stars": 345,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -415,7 +415,7 @@
                 "open_issues": 41,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5841,
+                "stars": 5843,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -436,7 +436,7 @@
                 "open_issues": 14,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1522,
+                "stars": 1521,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -478,7 +478,7 @@
                 "open_issues": 0,
                 "owner": "box2ai-robotics",
                 "repo": "lerobot-kinematics",
-                "stars": 131,
+                "stars": 130,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -548,7 +548,7 @@
                 "open_issues": 13,
                 "owner": "jeongeun980906",
                 "repo": "lerobot-mujoco-tutorial",
-                "stars": 656,
+                "stars": 655,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T07:55:41.188Z",
+    "last_updated": "2026-11-21T07:54:03.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
