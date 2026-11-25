@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T07:14:25Z",
-                "open_issues": 1015,
+                "last_commit": "2026-11-25T03:31:43Z",
+                "open_issues": 1020,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 29058,
+                "stars": 29081,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -42,7 +42,7 @@
                 "open_issues": 382,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14745,
+                "stars": 14761,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -63,7 +63,7 @@
                 "open_issues": 336,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8415,
+                "stars": 8416,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -415,7 +415,7 @@
                 "open_issues": 42,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5854,
+                "stars": 5861,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -436,7 +436,7 @@
                 "open_issues": 14,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1525,
+                "stars": 1526,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -453,11 +453,11 @@
                 "id": 950867682,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-16T16:54:45Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-24T19:33:19Z",
+                "open_issues": 25,
                 "owner": "maximilienroberti",
                 "repo": "lerobotdepot",
-                "stars": 261,
+                "stars": 262,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -569,7 +569,7 @@
                 "open_issues": 17,
                 "owner": "fracapuano",
                 "repo": "robot-learning-tutorial",
-                "stars": 611,
+                "stars": 612,
                 "topics": [
                   "lerobot",
                   "machine-learning",
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T10:35:36.371Z",
+    "last_updated": "2026-11-25T09:25:48.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
