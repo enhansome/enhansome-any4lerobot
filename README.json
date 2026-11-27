@@ -17,11 +17,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T08:53:30Z",
-                "open_issues": 1030,
+                "last_commit": "2026-11-27T03:32:29Z",
+                "open_issues": 1050,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 29101,
+                "stars": 29118,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -42,7 +42,7 @@
                 "open_issues": 382,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14771,
+                "stars": 14786,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -63,7 +63,7 @@
                 "open_issues": 337,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8422,
+                "stars": 8424,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -140,7 +140,7 @@
                 "open_issues": 14,
                 "owner": "Fanqi-Lin",
                 "repo": "OneTwoVLA",
-                "stars": 243,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -161,7 +161,7 @@
                 "open_issues": 14,
                 "owner": "hume-vla",
                 "repo": "hume",
-                "stars": 150,
+                "stars": 149,
                 "topics": [
                   "robotics",
                   "system2-thinking",
@@ -415,7 +415,7 @@
                 "open_issues": 42,
                 "owner": "Vector-Wangel",
                 "repo": "XLeRobot",
-                "stars": 5868,
+                "stars": 5869,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -436,7 +436,7 @@
                 "open_issues": 14,
                 "owner": "SIGRobotics-UIUC",
                 "repo": "LeKiwi",
-                "stars": 1526,
+                "stars": 1527,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:24:30.524Z"
@@ -453,8 +453,8 @@
                 "id": 950867682,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-24T19:33:19Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-27T09:05:29Z",
+                "open_issues": 25,
                 "owner": "maximilienroberti",
                 "repo": "lerobotdepot",
                 "stars": 261,
@@ -1019,7 +1019,7 @@
                 "id": 1433985836,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T03:34:31Z",
+                "last_commit": "2026-11-27T08:11:31Z",
                 "open_issues": 0,
                 "owner": "ravediamond",
                 "repo": "paper-vs-hardware",
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T09:03:41.873Z",
+    "last_updated": "2026-11-27T09:19:37.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎁 A collection of utilities for LeRobot.",
